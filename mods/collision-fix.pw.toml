@@ -1,0 +1,13 @@
+name = "Collision Fix"
+filename = "CollisionFix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CBtq0jWL/versions/cPukbhnG/CollisionFix-1.0.0.jar"
+hash-format = "sha1"
+hash = "29a93513f9b1a6c802a791893900fbbb431ebf9a"
+
+[update]
+[update.modrinth]
+mod-id = "CBtq0jWL"
+version = "cPukbhnG"

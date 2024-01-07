@@ -1,0 +1,45 @@
+name: Build
+
+on:
+  push:
+    branches:
+    - main
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: "1.19"
+
+    - name: Install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+
+    - name: Set up Packwiz cache
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/packwiz/cache/
+        key: ${{ runner.os }}-packwiz-store
+        restore-keys: ${{ runner.os }}-packwiz-store
+
+    - name: Get pack version
+      id: version
+      run: |
+        echo "VERSION=$(cat pack.toml | grep "version =" | sed 's/version = "\(.*\)"/\1/')" >> $GITHUB_OUTPUT
+
+    - name: Build Modrinth pack
+      run: |
+        mkdir build
+        packwiz modrinth export --output build/encrypted_group-${{ steps.version.outputs.VERSION }}.mrpack
+
+    - name: Upload Modrinth pack
+      uses: actions/upload-artifact@v3
+      with:
+        name: Modrinth Pack
+        path: build/encrypted_group-*.mrpack

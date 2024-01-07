@@ -1,0 +1,13 @@
+name = "Recipes Refreshed"
+filename = "recipes_refreshed-1.4-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mwNLf2K7/versions/Zmanzmpz/recipes_refreshed-1.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "aac76dbb95e6454b80263f186dcbfd9d7f39899f"
+
+[update]
+[update.modrinth]
+mod-id = "mwNLf2K7"
+version = "Zmanzmpz"

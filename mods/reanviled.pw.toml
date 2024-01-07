@@ -1,0 +1,13 @@
+name = "Reanviled"
+filename = "reanviled-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NpDiDetj/versions/XJlVrCe1/reanviled-v1.0.0.jar"
+hash-format = "sha1"
+hash = "bb987b69f5033ed8395eae503c6cf0312080cdb7"
+
+[update]
+[update.modrinth]
+mod-id = "NpDiDetj"
+version = "XJlVrCe1"

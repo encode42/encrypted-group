@@ -1,0 +1,13 @@
+name = "Audiophoria"
+filename = "audiophoria-0.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilJPE0oL/versions/GADRQkiU/audiophoria-0.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "d6c2f1c53b85c32b8a434f9ff74cb63b19722679"
+
+[update]
+[update.modrinth]
+mod-id = "ilJPE0oL"
+version = "GADRQkiU"

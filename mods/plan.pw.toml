@@ -1,0 +1,9 @@
+name = "plan"
+filename = "PlanFabric-5.5-build-2461.jar"
+side = "server"
+pin = true
+
+[download]
+url = "https://github.com/plan-player-analytics/Plan/releases/download/5.5.2461/PlanFabric-5.5-build-2461.jar"
+hash-format = "sha256"
+hash = "de8b7960fa0afd5057500f24cb965e43bad92073c0b7d8d970fb7969173f879b"

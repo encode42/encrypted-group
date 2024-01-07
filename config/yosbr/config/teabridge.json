@@ -1,0 +1,27 @@
+{
+  "discord": {
+    "token": "",
+    "webhook": "",
+    "pkMessageDelay": 0,
+    "pkMessageDelayMilliseconds": true
+  },
+  "avatars": {
+    "avatarUrl": "https://crafthead.net/helm/%s/128",
+    "useTextureId": false
+  },
+  "game": {
+    "serverStartingMessage": "",
+    "serverStartMessage": "The server has started",
+    "serverStopMessage": "The server has stopped",
+    "serverCrashMessage": "The server has crashed",
+    "mirrorJoin": true,
+    "mirrorLeave": true,
+    "mirrorDeath": true,
+    "mirrorAdvancements": true,
+    "mirrorCommandMessages": false
+  },
+  "crashes": {
+    "uploadToMclogs": false
+  },
+  "debug": false
+}

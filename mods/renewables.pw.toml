@@ -1,0 +1,13 @@
+name = "Renewables"
+filename = "renewables-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sxQkrIHe/versions/n4OG5hjL/renewables-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "7fb9b28b514b1be0d0111d5c548ab75de82cb816"
+
+[update]
+[update.modrinth]
+mod-id = "sxQkrIHe"
+version = "n4OG5hjL"

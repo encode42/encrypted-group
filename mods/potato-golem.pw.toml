@@ -1,0 +1,13 @@
+name = "potato golem :3"
+filename = "potato-golem-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aAaM95Nh/versions/Y55yJm8w/potato-golem-0.2.jar"
+hash-format = "sha1"
+hash = "51f7522c3e52bad185f8004f667494760d2fa631"
+
+[update]
+[update.modrinth]
+mod-id = "aAaM95Nh"
+version = "Y55yJm8w"
