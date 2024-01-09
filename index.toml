@@ -347,6 +347,11 @@ hash = "d19be45db95ff9adf0a5eeefa1366608d39036a70acf153fe248a578a9d7a4be"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
+metafile = true
+
+[[files]]
 file = "mods/allthetrims.pw.toml"
 hash = "2d9867b3cfcaa440a82a32c3202ade39239e9c2be390da9a35d5506ba2a83a5d"
 metafile = true
@@ -1052,6 +1057,16 @@ metafile = true
 [[files]]
 file = "mods/myloot.pw.toml"
 hash = "ef80d969a80ba73f12b696c5cefe753891760b3b1f20bb2d2df24e396f8f6f0d"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals-decorations.pw.toml"
+hash = "2969165b148cdaa4c6f845fe245687e80577591aba5173bd9bea0bdf1637c016"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "a9c2476331ad203ab4b213dde28b72ffb2c95cb0c485022874b75c1056c7ba5d"
 metafile = true
 
 [[files]]
