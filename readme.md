@@ -22,10 +22,3 @@ You can still view a server using this pack [here](https://view.encrypted.group)
 - [Porting Lib](https://github.com/fabien-gigante/Porting-Lib)
   * A fork to patch server crashes caused by deployers.
 - [Just Enough Farmer's Recipes](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-jei-plugin)
-
-- pure discs
-- distorted discs
-- moar discs
-- all the fan made discs
-- audiophoria
-- scarves
