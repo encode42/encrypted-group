@@ -50,7 +50,7 @@ jobs:
     - name: Build Modrinth pack
       run: |
         mkdir build
-        packwiz modrinth export --output build/encrypted_group-${{ steps.version.outputs.VERSION }}.zip
+        packwiz modrinth export --output build/encrypted_group-${{ steps.version.outputs.VERSION }}.mrpack
 
     - name: Get commits since last tag
       id: commits
