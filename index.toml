@@ -631,6 +631,11 @@ hash = "2e5050d757882889b37b46761e83db04aefb6511aa1e86a81d4df8986654abbe"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
 metafile = true
@@ -922,6 +927,16 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "34f98b3da841e318b6c2947c665c8d612ccef3e10b8221695f39d52a7020cb93"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+hash = "3bb851f6dd3b801632a75422543fec6c23455f69ab0bc18c3afa1e05b8064c7f"
 metafile = true
 
 [[files]]
@@ -1530,6 +1545,11 @@ metafile = true
 [[files]]
 file = "mods/videotape.pw.toml"
 hash = "3f58f4bd5a957695712365d0f3aa78bc93744a2d57e992dda4c1fb69ffbc2b88"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "5d2637954e0654914458f6589f83f19e9b6fb717ef62b4c05e1e2fab297caa53"
 metafile = true
 
 [[files]]
