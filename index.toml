@@ -1,319 +1,315 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "2788fc8d285b906e03773a5020782fd73639d4a6e764e26fe021ef959001aa3e"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "05d61b4aaf925ae7399e295b29a7afde96bec3cebd5319dae29cd553e0b39eaa"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "211b9ca884757b5b8b096ce5a66936596930f9ced5add631588e9bc6860dcbe1"
-
-[[files]]
-file = "config/yosbr/config/DistantHorizons.toml"
+file = "configureddefaults/config/DistantHorizons.toml"
 hash = "576ab96111ff6d050bc7ad645d01d4c183f72e7b8e187fe6faf16ba71949f997"
 
 [[files]]
-file = "config/yosbr/config/LibertyVillagers.json"
+file = "configureddefaults/config/LibertyVillagers.json"
 hash = "37899746ef05b6c8276d4182ff96b101dd6aaddce6a2df586f0eb059ba71e563"
 
 [[files]]
-file = "config/yosbr/config/MiniMOTD/icons/encrypted_group.png"
+file = "configureddefaults/config/MiniMOTD/icons/encrypted_group.png"
 hash = "5df522cce1f72846318014ac316085833e0ed2987274c79f61d27c7d5d331c70"
 
 [[files]]
-file = "config/yosbr/config/MiniMOTD/main.conf"
+file = "configureddefaults/config/MiniMOTD/main.conf"
 hash = "99803dd26133d295f54bf409dac2960f15096cc952844fc7658721cc3bdd906e"
 
 [[files]]
-file = "config/yosbr/config/MiniMOTD/plugin_settings.conf"
+file = "configureddefaults/config/MiniMOTD/plugin_settings.conf"
 hash = "34582d0fff848a014c8868a109dc2c7793160dacbcbd556414b1ba41a6339c35"
 
 [[files]]
-file = "config/yosbr/config/WildlifeConfig.json"
+file = "configureddefaults/config/WildlifeConfig.json"
 hash = "34e01703a6d07bd2cbaf0ff917e2c6b35849e92bfa981aaa8ef56c5e343404e5"
 
 [[files]]
-file = "config/yosbr/config/adaptive-tooltips.json"
+file = "configureddefaults/config/adaptive-tooltips.json"
 hash = "04417f3c2be5f16ab435f5bc130144109179e69612eb484d2130c0a166b4ac13"
 
 [[files]]
-file = "config/yosbr/config/ae2/client.json"
+file = "configureddefaults/config/ae2/client.json"
 hash = "95ecd7f59102e1004ef20f839612e94c84187b10058b1f52e4499dd631d60ef4"
 
 [[files]]
-file = "config/yosbr/config/ae2/common.json"
+file = "configureddefaults/config/ae2/common.json"
 hash = "394785eccee344ef9f8c38a6e0c23f0769fdaf95c128b13b923b2a671d5bcde1"
 
 [[files]]
-file = "config/yosbr/config/appleskin.json5"
+file = "configureddefaults/config/appleskin.json5"
 hash = "0e2ee76ff6646c40d60cbc1eaae7739fcd1057d035958f8366ac970fcf5c1d22"
 
 [[files]]
-file = "config/yosbr/config/audio_engine.json"
+file = "configureddefaults/config/audio_engine.json"
 hash = "9c8d015c28225e9618178645d7e99a261da46c0ebfa80768e40aa8760e252176"
 
 [[files]]
-file = "config/yosbr/config/bStats/config.yml"
+file = "configureddefaults/config/bStats/config.yml"
 hash = "e995767ff7bbcc24f91f93f02e8369921c87e6c954a898b27f9ab186cf069ccf"
 
 [[files]]
-file = "config/yosbr/config/blocky-bubbles.json"
+file = "configureddefaults/config/blocky-bubbles.json"
 hash = "85ab4a5a99dcbc8a18fac09daef7aaa45a4e5fc060d23cde5021a43e6d1dd5bd"
 
 [[files]]
-file = "config/yosbr/config/bluemap/core.conf"
+file = "configureddefaults/config/bluemap/core.conf"
 hash = "de3473ff10ada2fecec1a1687fb60c4f129ff333283182707f356cf8fed53927"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/end.conf"
+file = "configureddefaults/config/bluemap/maps/end.conf"
 hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/nether.conf"
+file = "configureddefaults/config/bluemap/maps/nether.conf"
 hash = "8a4b0e4ce52aef139019ddb832db13062dec88e04a0074caae2f4b26fa001259"
 
 [[files]]
-file = "config/yosbr/config/bluemap/maps/overworld.conf"
+file = "configureddefaults/config/bluemap/maps/overworld.conf"
 hash = "334380a456de785130959f274254468b95bd4db092fffc27ed9d838b1a341b40"
 
 [[files]]
-file = "config/yosbr/config/bluemap/plugin.conf"
+file = "configureddefaults/config/bluemap/plugin.conf"
 hash = "565849dbcac48cfdf6a8a63cc66e5f1bdc3b6d774bc8ea3a5513a5b4c10ab7c3"
 
 [[files]]
-file = "config/yosbr/config/bluemap/storages/file.conf"
+file = "configureddefaults/config/bluemap/storages/file.conf"
 hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
 
 [[files]]
-file = "config/yosbr/config/bluemap/storages/sql.conf"
+file = "configureddefaults/config/bluemap/storages/sql.conf"
 hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
 
 [[files]]
-file = "config/yosbr/config/bluemap/webapp.conf"
+file = "configureddefaults/config/bluemap/webapp.conf"
 hash = "359edf59986d67b26633b3384dd3d2b5d0f6b714575c37fe0e5f7e4f2787f1b3"
 
 [[files]]
-file = "config/yosbr/config/bluemap/webserver.conf"
+file = "configureddefaults/config/bluemap/webserver.conf"
 hash = "56dacfdab4e4e9d4b8132497b9263b3a41edc9fb3a84c9b9ada0ef1271dd2a07"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
+file = "configureddefaults/config/capes.json5"
 hash = "e3ee145346bfe3feb8af830491531ea60de42a42b4825bc57fab6e33c95b1c7c"
 
 [[files]]
-file = "config/yosbr/config/create-client.toml"
+file = "configureddefaults/config/create-client.toml"
 hash = "910b386e999cc50d111e8cca78a9805ed799447c2ee7b6902727312c526a4498"
 
 [[files]]
-file = "config/yosbr/config/create-common.toml"
+file = "configureddefaults/config/create-common.toml"
 hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 
 [[files]]
-file = "config/yosbr/config/create-server.toml"
+file = "configureddefaults/config/create-server.toml"
 hash = "ecab548a3131cbfe9b168deaeaf50a17b6d220a6876ab46a52a4608de73d9579"
 
 [[files]]
-file = "config/yosbr/config/create_new_age-client.toml"
+file = "configureddefaults/config/create_new_age-client.toml"
 hash = "f231448f6be3eadfcc13545b90915434692d43159803424f635d5790b0b5e4ae"
 
 [[files]]
-file = "config/yosbr/config/create_new_age-common.toml"
+file = "configureddefaults/config/create_new_age-common.toml"
 hash = "010302bb527b8812a11e09862a31a57a1329626c53ec8ebbe53a562943101b4c"
 
 [[files]]
-file = "config/yosbr/config/de/mari_023/ae2wtlib.json5"
+file = "configureddefaults/config/de/mari_023/ae2wtlib.json5"
 hash = "915ef1b9f2b45672822dcc70295620b0a0e4dc4ae68a986d27b11216d0ac378f"
 
 [[files]]
-file = "config/yosbr/config/debugify.json"
+file = "configureddefaults/config/debugify.json"
 hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 
 [[files]]
-file = "config/yosbr/config/doomangelring.json"
+file = "configureddefaults/config/doomangelring.json"
 hash = "31e0602eb1d59a135fe27ae66211088fd0d9ce20c0499083935e0ace9d7631ab"
 
 [[files]]
-file = "config/yosbr/config/emotecraft.json"
+file = "configureddefaults/config/emotecraft.json"
 hash = "d28cb1a7a3dcd8793221d9c5823ee05c249292d991e139dba03f41027b7d5200"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
+file = "configureddefaults/config/exordium.json"
 hash = "fbab0c83848a68677bf52d815e29c726527697642150478b3c96a81a4d07ef08"
 
 [[files]]
-file = "config/yosbr/config/extended_drawers.json"
+file = "configureddefaults/config/extended_drawers.json"
 hash = "cb351c0ec11e4910bc3d6f801ce365ceeca7730a09630fb8297bc1d0a65f7645"
 
 [[files]]
-file = "config/yosbr/config/farmersdelight.json"
+file = "configureddefaults/config/farmersdelight.json"
 hash = "ff415adc5cd4833c36ac722984abb3aad817ee5196a570904c22f7d9b4b3154e"
 
 [[files]]
-file = "config/yosbr/config/freecam.json5"
+file = "configureddefaults/config/freecam.json5"
 hash = "0ee2fe10a3fdf9d0f83b7e7775632ea42e1974a19169855703ba41b2f131ad29"
 
 [[files]]
-file = "config/yosbr/config/friendsandfoes.json"
+file = "configureddefaults/config/friendsandfoes.json"
 hash = "3fc1355a99fbde74d282b00abd938cc78c637f07473a24ce24e21dfaea2f15b8"
 
 [[files]]
-file = "config/yosbr/config/gottagofast.json5"
+file = "configureddefaults/config/gottagofast.json5"
 hash = "97c7707d8642296ae29afeebdac558ebb144078c85eaa911f2a21346afb575b6"
 
 [[files]]
-file = "config/yosbr/config/grindenchantments.json"
+file = "configureddefaults/config/grindenchantments.json"
 hash = "28d4368de6c8a90e5545ef7675cb8149b9c280de19f69f29ff77f7b90dfd1fd7"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
+file = "configureddefaults/config/iris.properties"
 hash = "7f864e552203c2020160b38c2fef04e681b4a90b032726c403cb6d76a45646bf"
 
 [[files]]
-file = "config/yosbr/config/lambdynlights.toml"
+file = "configureddefaults/config/lambdynlights.toml"
 hash = "f29e7525b70511d8acdb68c48f98cddd4363092161af53fcd32f9688b472a5f2"
 
 [[files]]
-file = "config/yosbr/config/ledger.toml"
+file = "configureddefaults/config/ledger.toml"
 hash = "11a99c0a6a2c0313f93435df9560923eaaf1e1299d357f30afd69bdc5064b1f0"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
+file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "16475413803ebc7016a8cb933bb714d1b6be0ad24ef19ee242450ce8d0352f93"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
+file = "configureddefaults/config/modmenu.json"
 hash = "bdd1836c06fe9f729b05155b408fbbeffc5dce27180ab48bd1de9a050a560f97"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
+file = "configureddefaults/config/moreculling.toml"
 hash = "42d32d25658954ead52825ef7dc2c0313f7af603bc09a56cb55c122f5b387c84"
 
 [[files]]
-file = "config/yosbr/config/mousewheelie.hjson"
+file = "configureddefaults/config/mousewheelie.hjson"
 hash = "dd205aaf52d8f0d48e57f2eba474468f0a50875ff3ef733452ddba79d9c65920"
 
 [[files]]
-file = "config/yosbr/config/ping-wheel.json"
+file = "configureddefaults/config/ping-wheel.json"
 hash = "1f3d900a88b4388c880f857cac36a5ae9aa8c1ddea39684842d16daa1811fcf6"
 
 [[files]]
-file = "config/yosbr/config/plan/config.yml"
+file = "configureddefaults/config/plan/config.yml"
 hash = "1296e381bf7b91f588e008fa6ca80d65fee8bd26a5c20e33146e86dc021342e6"
 
 [[files]]
-file = "config/yosbr/config/plan/theme.yml"
+file = "configureddefaults/config/plan/theme.yml"
 hash = "b1403e5cd26474d4dc1b1024bcddab9d7d016b28ee84f91918a44a83c73307d7"
 
 [[files]]
-file = "config/yosbr/config/railways-client.toml"
+file = "configureddefaults/config/railways-client.toml"
 hash = "9a37c9d1bffe889b18f7173e2a1854c51771b39e2c471d7546debfcc68c33119"
 
 [[files]]
-file = "config/yosbr/config/railways-server.toml"
+file = "configureddefaults/config/railways-server.toml"
 hash = "2cc8c83cd8c81f1d91a65e8fbb98fdd743a662be3248a15f319a76be053a0760"
 
 [[files]]
-file = "config/yosbr/config/reinfcore.json"
+file = "configureddefaults/config/reinfcore.json"
 hash = "58c0694e7a264f9b1308c513031794d92b7acebf14a6053b2295498dac71363a"
 
 [[files]]
-file = "config/yosbr/config/respawningshulkers.json5"
+file = "configureddefaults/config/respawningshulkers.json5"
 hash = "460a929e752e258d05d2d6d448e253ae0dc307973e762291e49db66c076d4f83"
 
 [[files]]
-file = "config/yosbr/config/rightclickharvest.json"
+file = "configureddefaults/config/rightclickharvest.json"
 hash = "2defd8d29b67acecfe04aee7b4a8be15811a124fd05eb3cc244a2f61ac7bc661"
 
 [[files]]
-file = "config/yosbr/config/servercore.toml"
+file = "configureddefaults/config/servercore.toml"
 hash = "78a4eefb63b3483b221e8e1a54c7b02d7fec80ae0331425924f69e557558f1b5"
 
 [[files]]
-file = "config/yosbr/config/sessility.properties"
+file = "configureddefaults/config/sessility.properties"
 hash = "33c898a4ff2a05ac8a1142cf05565cdb2353ae39429283ad4516f7c09c6da2fc"
 
 [[files]]
-file = "config/yosbr/config/showmeyourskin-server.json"
+file = "configureddefaults/config/showmeyourskin-server.json"
 hash = "93d395b21831584840e3cfcd7e6f1cd4692e9cfe524087c7562513776fb30436"
 
 [[files]]
-file = "config/yosbr/config/showmeyourskin.json"
+file = "configureddefaults/config/showmeyourskin.json"
 hash = "ee2aa2bcb2f2c041433ba41c34af33cbb58e26ad2dc994048f828faf23970632"
 
 [[files]]
-file = "config/yosbr/config/simplehats/common.toml"
+file = "configureddefaults/config/simplehats/common.toml"
 hash = "57dc6eec42ea605c9c5d54d233ebc48f9ccbd380ad7306bedf52a051a8722e5a"
 
 [[files]]
-file = "config/yosbr/config/sneakyserver/config.properties"
+file = "configureddefaults/config/sneakyserver/config.properties"
 hash = "37fefa36455f6a1cc377d33361c16bd742202f5f3013b173def3f9526741d387"
 
 [[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
+file = "configureddefaults/config/sodium-extra-options.json"
 hash = "67ddcf42cbb6bc620bd57a6121a751b6d5b5fbe4efad9d11dd6d941a7cf70eec"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "configureddefaults/config/sodium-options.json"
 hash = "e0f40e77c10a121c9df7a19a5f8e8354b415ac14d2fa4af043ffe62e62821125"
 
 [[files]]
-file = "config/yosbr/config/supplementaries-client.json"
+file = "configureddefaults/config/supplementaries-client.json"
 hash = "4b72a6e08d7aff0ac6e49c83d8a00663dbc252a676180657479456ad8db84f7b"
 
 [[files]]
-file = "config/yosbr/config/supplementaries-common.json"
+file = "configureddefaults/config/supplementaries-common.json"
 hash = "c2f01f623c70c6d4ad76b75586772c1b193150dcc7a11e8124cf2879069e22ed"
 
 [[files]]
-file = "config/yosbr/config/teabridge.json"
+file = "configureddefaults/config/teabridge.json"
 hash = "84c051b1cc7eca6ae1d93f3217d78e531a22786220f33d42b51c2952575bf030"
 
 [[files]]
-file = "config/yosbr/config/timeoutout.json"
+file = "configureddefaults/config/timeoutout.json"
 hash = "6da4a124845a63cdefefd73c076cb101b79b050c7093076e6ba06b01d84c1024"
 
 [[files]]
-file = "config/yosbr/config/veindigging.json"
+file = "configureddefaults/config/veindigging.json"
 hash = "fc0d33a40ef448b9cd915bdc6e51c5bf5be13ec39afd2d12b5faf8468a92eb82"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "configureddefaults/config/vmp.properties"
 hash = "1ff799180b0ade12685e3c67662ad7c498ab47ff8a94f9b74ac2d096afa3308c"
 
 [[files]]
-file = "config/yosbr/config/wilderwild/block.json5"
+file = "configureddefaults/config/wilderwild/block.json5"
 hash = "42e1ba13e27720db40945149045563a1fe6a8c4264acf986c632aba0e09303ad"
 
 [[files]]
-file = "config/yosbr/config/wilderwild/entity.json5"
+file = "configureddefaults/config/wilderwild/entity.json5"
 hash = "0b2f6e4a21d00730eb51771184fa2e97be2cbbc30edf91c97e78c3091f9edd66"
 
 [[files]]
-file = "config/yosbr/config/wilderwild/item.json5"
+file = "configureddefaults/config/wilderwild/item.json5"
 hash = "48f8d87de83e4b773f122c95fc92923ceb973d0b1a0195ec014dd6893675c888"
 
 [[files]]
-file = "config/yosbr/config/wilderwild/misc.json5"
+file = "configureddefaults/config/wilderwild/misc.json5"
 hash = "24991c66f24e95d786bd3563d61ac3e5c8468f23d846be66f0dfc95121275245"
 
 [[files]]
-file = "config/yosbr/config/wilderwild/mixins.json5"
+file = "configureddefaults/config/wilderwild/mixins.json5"
 hash = "34fb16a12b98ca3c288291e372567048cd31e7ef2522cc77bf8c00a3c532ef2f"
 
 [[files]]
-file = "config/yosbr/config/wilderwild/worldgen.json5"
+file = "configureddefaults/config/wilderwild/worldgen.json5"
 hash = "90b7372a698cd2fac54e70e76eabd5dc60fbb34a1da706c840769e478c690321"
 
 [[files]]
-file = "config/yosbr/config/winterly.json"
+file = "configureddefaults/config/winterly.json"
 hash = "170b6b0039680ae29df26dd358d7c31fd5060df58a9f92754ad5204f4bc9d2c3"
 
 [[files]]
-file = "config/yosbr/shaderpacks/ComplementaryReimagined.zip.txt"
+file = "configureddefaults/options.txt"
+hash = "a58e9ab3c3c442cb87a29002ffb952e94fa8e675a21fdc49b9060b0a834e557c"
+
+[[files]]
+file = "configureddefaults/server.properties"
+hash = "cd1e8d0a8ba8aecd6e6bfc015d021dfeb93fd19fa3987f3efbb8e32fc68876ef"
+
+[[files]]
+file = "configureddefaults/shaderpacks/ComplementaryReimagined.zip.txt"
 hash = "a931854e7f6c0e99b1486e88fcfd8f5286e2f0fffa993c1eb7551b9cb05c6e5b"
 
 [[files]]
@@ -554,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "f292a7607f682264fa89245e1851c21bc654fedebf3c9b0d60decc275e512549"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
 metafile = true
 
 [[files]]
@@ -1531,15 +1532,6 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "server.properties"
-hash = "cd1e8d0a8ba8aecd6e6bfc015d021dfeb93fd19fa3987f3efbb8e32fc68876ef"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
