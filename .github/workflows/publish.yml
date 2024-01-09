@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
@@ -72,7 +72,7 @@ jobs:
         name: ${{ inputs.name != '' && inputs.name || steps.version.outputs.VERSION }}
         version: ${{ steps.version.outputs.VERSION }}
         version-type: ${{ inputs.releaseChannel }}
-        loaders: quilt
+        loaders: fabric
         game-versions: 1.20.1
 
         github-files: build/*.mrpack
