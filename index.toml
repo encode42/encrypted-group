@@ -309,6 +309,10 @@ file = "configureddefaults/server.properties"
 hash = "cd1e8d0a8ba8aecd6e6bfc015d021dfeb93fd19fa3987f3efbb8e32fc68876ef"
 
 [[files]]
+file = "configureddefaults/servers.dat"
+hash = "c3a2705adaeb84776e7ec784c992239d52469e3fa286f0906e21003bd8d7183c"
+
+[[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined.zip.txt"
 hash = "a931854e7f6c0e99b1486e88fcfd8f5286e2f0fffa993c1eb7551b9cb05c6e5b"
 
@@ -956,6 +960,11 @@ hash = "b4cc4fbc9031ebf22fef7cb0885b494933c7c93ea2647dab511c1673113dd8cc"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/milk_plus.pw.toml"
 hash = "6e4ba32c6ea4a4aa6a73282030a27c773faf7bb3b3fd970ed98534392310d2a5"
 metafile = true
@@ -1451,6 +1460,11 @@ metafile = true
 [[files]]
 file = "mods/teabridge.pw.toml"
 hash = "553359d1c675eb4f84f29c0b861fd9f5dfad487468c2d852aa129cec1eba6b69"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "ff0ce0f7c1b10e260c00e48457fe25ea311ac097511fe0901e2a6f741de9ba26"
 metafile = true
 
 [[files]]
