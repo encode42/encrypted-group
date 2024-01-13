@@ -1,12 +1,12 @@
 name = "encrypted group"
 author = "encode42"
-version = "1.5.0-SNAPSHOT"
+version = "1.5.1-SNAPSHOT"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ce41e1b5a35bbedf06564b3a804d065b93703310816ed20766ef15cc78483331"
+hash = "aed5dfdf64a48863740a60d77d352218c084697286ef8b9840210ea32c3c543f"
 
 [versions]
 fabric = "0.15.3"
