@@ -518,13 +518,13 @@
     }, 
     "JELLYFISH": { 
       "spawnCategory": "fishSpawnSettings", 
-      "spawnBiomes": ["saltWater"], 
+      "spawnBiomes": [""], 
       "health": 3, 
       "breedingItems": ["fishItems"] 
     }, 
     "GLOW_JELLYFISH": { 
       "spawnCategory": "fishSpawnSettings", 
-      "spawnBiomes": ["deepOcean"], 
+      "spawnBiomes": [""], 
       "health": 3, 
       "breedingItems": ["fishItems"] 
     }, 
