@@ -1,6 +1,6 @@
 name = "qrafty's End Villages"
 filename = "qraftys-end-villages-1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/NFlNaUBA/versions/M8PetBVr/qraftys-end-villages-1.jar"
