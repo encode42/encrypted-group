@@ -835,11 +835,6 @@ hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-jei-plugin.pw.toml"
-hash = "e2e8b83d610a726b1bc18030bfb43fe1db27c769436813c29c0c0c03eea6f148"
-metafile = true
-
-[[files]]
 file = "mods/farmers-knives.pw.toml"
 hash = "e26f4ed60a39245dde3632923fc387d9f5cf285f3f6d6aaa925fc4a0d1c55e3c"
 metafile = true
