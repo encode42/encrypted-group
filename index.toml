@@ -49,6 +49,18 @@ file = "configureddefaults/config/bStats/config.yml"
 hash = "e995767ff7bbcc24f91f93f02e8369921c87e6c954a898b27f9ab186cf069ccf"
 
 [[files]]
+file = "configureddefaults/config/bclib/client.json"
+hash = "3a57cc42283cf1151a5056c662111444f3569a6846b5bd1d6d1f391f63087b15"
+
+[[files]]
+file = "configureddefaults/config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "configureddefaults/config/bclib/server.json"
+hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
+
+[[files]]
 file = "configureddefaults/config/blocky-bubbles.json"
 hash = "85ab4a5a99dcbc8a18fac09daef7aaa45a4e5fc060d23cde5021a43e6d1dd5bd"
 
@@ -123,6 +135,10 @@ hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 [[files]]
 file = "configureddefaults/config/doomangelring.json"
 hash = "31e0602eb1d59a135fe27ae66211088fd0d9ce20c0499083935e0ace9d7631ab"
+
+[[files]]
+file = "configureddefaults/config/emi.css"
+hash = "3ec27f87133d0827227710192dd333cd4b26585df13160fb4e4441bb5d7de106"
 
 [[files]]
 file = "configureddefaults/config/emotecraft.json"
@@ -265,6 +281,10 @@ file = "configureddefaults/config/teabridge.json"
 hash = "84c051b1cc7eca6ae1d93f3217d78e531a22786220f33d42b51c2952575bf030"
 
 [[files]]
+file = "configureddefaults/config/the_bumblezone.json"
+hash = "96b6bf65323aad5ef488a43177692ba0d2e53e45a17d3ec17518a22131eff798"
+
+[[files]]
 file = "configureddefaults/config/timeoutout.json"
 hash = "6da4a124845a63cdefefd73c076cb101b79b050c7093076e6ba06b01d84c1024"
 
@@ -306,7 +326,7 @@ hash = "170b6b0039680ae29df26dd358d7c31fd5060df58a9f92754ad5204f4bc9d2c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "a58e9ab3c3c442cb87a29002ffb952e94fa8e675a21fdc49b9060b0a834e557c"
+hash = "9748fd20b114b32db0d0473bbd8f015ef57bda9e35a72d72aa5fe6bc4cdd5721"
 
 [[files]]
 file = "configureddefaults/server.properties"
@@ -338,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "9f13a0e8d2efc65cfef67ab854c37f2fd8cb5c8b4a29d0cf81945f0dc62b0ea7"
+metafile = true
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "27bee2dec0693db30bc4a8981d1409d7075f1515ea379f70f3c897a76ec49970"
 metafile = true
 
 [[files]]
@@ -640,11 +665,6 @@ hash = "5517dcbdc9be9317ce9ee8c2ea5f4f5bdf82e9011edf8b9c4898a2eaa8898017"
 metafile = true
 
 [[files]]
-file = "mods/disco.pw.toml"
-hash = "9aee854110b0d7f9adb5877afd452c7601f528c157231bdbc287b0c1fdb90136"
-metafile = true
-
-[[files]]
 file = "mods/disenchanter.pw.toml"
 hash = "67c7669b86fc38d805f5714641d44fb0ffbe752230135de97083bdf37191b271"
 metafile = true
@@ -697,6 +717,31 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "9fad62fde8dfd4cbc66d09075f6bd4db18619c2fe41f660881e7b1a0316b45e1"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "23f526d5e4adc3762a3b154d46379aaabd329fb025f3dbcc4b247e6f57612b5a"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
@@ -762,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "d5703dbab81221abd81236f249b3f6256101debee1bea643bf0e20835193fce2"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "2b917cb7ce42faa92e029b4468e6dd580074e49630580b9b3b8014e14c914b07"
 metafile = true
 
 [[files]]
@@ -845,10 +895,6 @@ hash = "b4a95599abc255637ea36d3c7e98bf3edcd4461a0f19eae4520b9b611939006f"
 metafile = true
 
 [[files]]
-file = "mods/g03c.jar"
-hash = "ae3e32e992dea1689f35e95060a232a8c785fd30fa45ff60debe7e81e367442b"
-
-[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "ce79370dc41e2ad09847c823bdc0f12aba55d12d621a33c8eb408ceb8420daa4"
 metafile = true
@@ -913,6 +959,11 @@ hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
+file = "mods/jepp.pw.toml"
+hash = "e0019c2cd7511f9990c2d9bc605242cd778116338e929e3838cde5a4b69f0b86"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "db00e88c7969739a30077850545c586108ae26ad0039686fc4d7513b8f4754b7"
 metafile = true
@@ -920,16 +971,6 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "310c0dc53026018e06010ad97a41fd6da505e3ad26c91c88502be6412ffc8aa2"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "bdac724bd131ca51530883f0e5ea4aa6e4eb01f3d736ef3d6686710d5481e14c"
 metafile = true
 
 [[files]]
@@ -1358,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/qraftys-end-villages.pw.toml"
-hash = "9a056293737de7aee5a87e97a6e059aec902e21b958b1ae4698192f140e70c28"
+hash = "d3ead7d8e4e8eb381b41b13bfb06b93774d719bbb07c5553ef0234966d437b9d"
 metafile = true
 
 [[files]]
