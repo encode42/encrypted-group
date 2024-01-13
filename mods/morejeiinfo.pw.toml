@@ -1,0 +1,13 @@
+name = "MoreJeiInfo"
+filename = "morejeiinfo-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cbe8dce26f1b02ba34dac3699ae8bf2a3410ec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4736568
+project-id = 902996
