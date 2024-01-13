@@ -22,7 +22,7 @@ hash = "34582d0fff848a014c8868a109dc2c7793160dacbcbd556414b1ba41a6339c35"
 
 [[files]]
 file = "configureddefaults/config/WildlifeConfig.json"
-hash = "34e01703a6d07bd2cbaf0ff917e2c6b35849e92bfa981aaa8ef56c5e343404e5"
+hash = "a1db97eaea418516087b27655db5060f9b961e616f5099c4c82bcc179cdaa599"
 
 [[files]]
 file = "configureddefaults/config/adaptive-tooltips.json"
@@ -167,6 +167,10 @@ hash = "f29e7525b70511d8acdb68c48f98cddd4363092161af53fcd32f9688b472a5f2"
 [[files]]
 file = "configureddefaults/config/ledger.toml"
 hash = "11a99c0a6a2c0313f93435df9560923eaaf1e1299d357f30afd69bdc5064b1f0"
+
+[[files]]
+file = "configureddefaults/config/majruszsaccessories.json"
+hash = "88209995dcc96fe2b37362c51aa0a47021fab576e557f4583dc450aac25b0e7c"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
@@ -442,6 +446,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/be-proud.pw.toml"
 hash = "5461a9e5284a83235138170e2fbf34f72f5822765848c48a53b09a7716355678"
 metafile = true
@@ -469,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/better-safe-bed.pw.toml"
 hash = "05addf890fdc7945b1dfbd67a2fbf1e92bd60f514a9b758ee94bb02611092ded"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
@@ -621,6 +635,16 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "5517dcbdc9be9317ce9ee8c2ea5f4f5bdf82e9011edf8b9c4898a2eaa8898017"
+metafile = true
+
+[[files]]
+file = "mods/disco.pw.toml"
+hash = "9aee854110b0d7f9adb5877afd452c7601f528c157231bdbc287b0c1fdb90136"
+metafile = true
+
+[[files]]
 file = "mods/disenchanter.pw.toml"
 hash = "67c7669b86fc38d805f5714641d44fb0ffbe752230135de97083bdf37191b271"
 metafile = true
@@ -633,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
+metafile = true
+
+[[files]]
+file = "mods/dwdsb.pw.toml"
+hash = "de896bb1acd9c3e5dcc96bf997c4c71c941b3166ee84ef1c62924601002dd155"
 metafile = true
 
 [[files]]
@@ -816,6 +845,10 @@ hash = "b4a95599abc255637ea36d3c7e98bf3edcd4461a0f19eae4520b9b611939006f"
 metafile = true
 
 [[files]]
+file = "mods/g03c.jar"
+hash = "ae3e32e992dea1689f35e95060a232a8c785fd30fa45ff60debe7e81e367442b"
+
+[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "ce79370dc41e2ad09847c823bdc0f12aba55d12d621a33c8eb408ceb8420daa4"
 metafile = true
@@ -980,6 +1013,11 @@ hash = "b4cc4fbc9031ebf22fef7cb0885b494933c7c93ea2647dab511c1673113dd8cc"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "66ad6d3a39ab7957cb20f4212bd592935fbb43753e1153ea8961b856a4a462d6"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
@@ -1110,6 +1148,11 @@ hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "c7cbbd95efa451ceaa3973018cb17ea3ad67fe2ca63c480c9c2403c903ae4491"
 metafile = true
@@ -1147,6 +1190,16 @@ metafile = true
 [[files]]
 file = "mods/plan.pw.toml"
 hash = "afae81a844727d31851a0524024c38163f760a26f54a4b949aee18847dd123e3"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "03c50c52bcdcc958ab261fdf157977356800ea7402f40bcc1c9552a465bb2ec6"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "2f2586965df067983dee54da7076aa0dc40191d426ce611f20b7cb4d60897c04"
 metafile = true
 
 [[files]]
@@ -1304,6 +1357,11 @@ hash = "7d86c68314998b0854f35128a1a2c45ca8c7e6233a12d39885f76fd12441b6d5"
 metafile = true
 
 [[files]]
+file = "mods/qraftys-end-villages.pw.toml"
+hash = "9a056293737de7aee5a87e97a6e059aec902e21b958b1ae4698192f140e70c28"
+metafile = true
+
+[[files]]
 file = "mods/railoptimization.pw.toml"
 hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
 metafile = true
@@ -1360,11 +1418,6 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
-metafile = true
-
-[[files]]
-file = "mods/scarves.pw.toml"
-hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
 
 [[files]]
@@ -1493,6 +1546,11 @@ hash = "553359d1c675eb4f84f29c0b861fd9f5dfad487468c2d852aa129cec1eba6b69"
 metafile = true
 
 [[files]]
+file = "mods/tempad.pw.toml"
+hash = "0a3a680ed7c131426ffe490a94bb7d35e456fd586c83a8fb321b0a77e1eb6eb2"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "ff0ce0f7c1b10e260c00e48457fe25ea311ac097511fe0901e2a6f741de9ba26"
 metafile = true
@@ -1530,6 +1588,11 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "dbd264fbbc7d192be197aa465bdf33f27950a113fe09da1b4a58c226a0ed5c66"
+metafile = true
+
+[[files]]
+file = "mods/url-music-discs.pw.toml"
+hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
 metafile = true
 
 [[files]]
