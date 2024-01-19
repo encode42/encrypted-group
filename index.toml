@@ -669,6 +669,16 @@ hash = "5517dcbdc9be9317ce9ee8c2ea5f4f5bdf82e9011edf8b9c4898a2eaa8898017"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "8459210809b612d602dc744a09e04a4bc772c112f85336185425a65425a0a43a"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "3485add337ce6744b5c0b2901cb159c9304af159c4635f9a945f262ee738f28a"
+metafile = true
+
+[[files]]
 file = "mods/disenchanter.pw.toml"
 hash = "67c7669b86fc38d805f5714641d44fb0ffbe752230135de97083bdf37191b271"
 metafile = true
@@ -770,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "0e8813a1aa7130ed082ff8753ed2c64200fa4246fde4ed1522bc76828dfadd91"
+hash = "177f1b0e87f78dc74116c475c0dfd9b6ad485bd104b81e7581c84a1e333d5c41"
 metafile = true
 
 [[files]]
@@ -1124,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
 metafile = true
 
 [[files]]
@@ -1541,6 +1551,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/somemusicdiscs.pw.toml"
+hash = "12bda673dfa585956f34bcc254c6c9f2b12d41664fefbfd5f11f5a5d7f4bb093"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
 metafile = true
@@ -1563,6 +1578,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
+metafile = true
+
+[[files]]
+file = "mods/stonecutter-gui-remastered.pw.toml"
+hash = "28582643248da96c002f8ab2b626e68341e92fe4d5f2802473f998c2dd1161e4"
 metafile = true
 
 [[files]]
