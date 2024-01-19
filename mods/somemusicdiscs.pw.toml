@@ -1,0 +1,13 @@
+name = "Some Music Discs"
+filename = "SomeMusicDiscs-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8kNxIw4/versions/tXf4Sqja/SomeMusicDiscs-1.4.1.jar"
+hash-format = "sha1"
+hash = "55b8b8972a18640bf103f33f13b93e9f8439a818"
+
+[update]
+[update.modrinth]
+mod-id = "g8kNxIw4"
+version = "tXf4Sqja"
