@@ -281,6 +281,10 @@ file = "configureddefaults/config/teabridge.json"
 hash = "84c051b1cc7eca6ae1d93f3217d78e531a22786220f33d42b51c2952575bf030"
 
 [[files]]
+file = "configureddefaults/config/tempad.jsonc"
+hash = "78507d353f47e0e6ec5c4b9e638a69d6a240b909fcb2fc7c40b1cf9ef10f4a09"
+
+[[files]]
 file = "configureddefaults/config/the_bumblezone.json"
 hash = "96b6bf65323aad5ef488a43177692ba0d2e53e45a17d3ec17518a22131eff798"
 
@@ -367,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "909ed1bf3df31b6948a811b5f08504bad6f635aac905e74c932f7f9468721cf2"
+hash = "de82b1dbf0023f4aae1db1fa69eda866a30f0afa57e16832d1ba8c504804d3a6"
 metafile = true
 
 [[files]]
@@ -417,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "fd5fed18ee77d9a0b46808030b57a216f084e018fc5db8d38cc44f93ab5f8206"
+hash = "faed1a8ed88b10decde5497566ccf4e18c425945fcfbc6078ffa8dc8f5600079"
 metafile = true
 
 [[files]]
@@ -457,12 +461,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "9fa8882ae82b94c555f029eb0c078c2d2d286700d8e4467e32301bd13d3e1ee4"
+hash = "deaea581c3779fc9e553aad276357abb3af94b1bd20dbfe9919ae0d975646fa4"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e5bede27aeae618cc72c4c1a1383d9a6e7bca73fca9d004f7d400adf9004e8c8"
+hash = "4531db2542b54aeea35ae6ab95da5a50667c0d53644ae5c43fb5a94b1237e9dd"
 metafile = true
 
 [[files]]
@@ -686,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -716,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "9fad62fde8dfd4cbc66d09075f6bd4db18619c2fe41f660881e7b1a0316b45e1"
+hash = "03cdf4c69f8a80171e7a3998238550cc7f3bf7f321e179cdcd63f00ec481fd20"
 metafile = true
 
 [[files]]
@@ -731,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "23f526d5e4adc3762a3b154d46379aaabd329fb025f3dbcc4b247e6f57612b5a"
+hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
 metafile = true
 
 [[files]]
@@ -876,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
-hash = "1df2b3379d03bc9eecd6c9a470a7c142327d3de4507333af15a5ce860845438c"
+hash = "fcc83f39da47d7c8b1fd2373ca2c4b0964b33265d192e51f3ec14a89bf711db8"
 metafile = true
 
 [[files]]
@@ -1105,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "623f1f195db9836fb92ba30b3f77bde29260b172c1427415a562cfaa86365e71"
+hash = "d4262ea81d416c9eea211bcfec4af1658df6fa430a99cc255978fc5911df04bd"
 metafile = true
 
 [[files]]
@@ -1209,8 +1213,13 @@ hash = "520b84d7e0458a4ff53f00f610a3d040ac49df034706c99b14bae3b203160dea"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "380dc01ccca1dd5f5acc54845b21ac1533bfcb048ca62b357b9b89eb10dbb07d"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
+hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
 metafile = true
 
 [[files]]
@@ -1453,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/runes.pw.toml"
-hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
+hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
@@ -1538,7 +1547,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "680b86bbc39ea7ea60518fb9ab70da41070827e8f9debe428b8f06615ab0a8f5"
+hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
 metafile = true
 
 [[files]]
@@ -1568,7 +1577,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6100f98bc0f0e598409dc6b640fcf77c8ca4d1319494fc25c0dbd2f5310ba81a"
+hash = "b249dd3fc6125edabfc294601aa200b4f7d0b63cb9f8d59408ee8be7396d7af6"
 metafile = true
 
 [[files]]
@@ -1588,7 +1597,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "902596707ce531ff01fa1f6ac982a3ee5886611e79483d5b1d20174172bc6444"
+hash = "f030cdd3f2f19f3b03311cefe8d8adf694962953a102932ab00d884c5b1f558b"
 metafile = true
 
 [[files]]
@@ -1673,7 +1682,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "eb564fa72e6bd9df45a040554926e73c88c43f72b7293def016449199333a860"
+hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
 metafile = true
 
 [[files]]
