@@ -54,7 +54,7 @@ hash = "3a57cc42283cf1151a5056c662111444f3569a6846b5bd1d6d1f391f63087b15"
 
 [[files]]
 file = "configureddefaults/config/bclib/main.json"
-hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+hash = "76f5a4914f8f4f973cb2c60c45b7aa18b55061d6ce76fea999f955e01f2b5170"
 
 [[files]]
 file = "configureddefaults/config/bclib/server.json"
@@ -490,6 +490,11 @@ hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
 metafile = true
 
 [[files]]
+file = "mods/bedrockwaters.pw.toml"
+hash = "c43d57a46fe645d051ddc72bd6aa941bcfb953bc2f342dc8d870fe66e2f00152"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -572,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "a217e41e6f44af521e40325b4e4fbedc918b97149ee65f81a0d4ec4c211a0432"
 metafile = true
 
 [[files]]
@@ -780,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "177f1b0e87f78dc74116c475c0dfd9b6ad485bd104b81e7581c84a1e333d5c41"
+hash = "be0eff6742bdbff32c9bb984e9c953dc8eb0312ef58eced0272689fda384250c"
 metafile = true
 
 [[files]]
@@ -1238,6 +1248,11 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "c34e7a8a336becea00e855eb69fcd94d02691ea01c54f37b088a4f1fa6fef26f"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "6b24857345b0220f0b9560d856df67d0edeef32a45e5b46f85beded5a9c72487"
 metafile = true
@@ -1656,11 +1671,6 @@ hash = "dbd264fbbc7d192be197aa465bdf33f27950a113fe09da1b4a58c226a0ed5c66"
 metafile = true
 
 [[files]]
-file = "mods/url-music-discs.pw.toml"
-hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
-metafile = true
-
-[[files]]
 file = "mods/useful-slime.pw.toml"
 hash = "ccef15c1c7a18780960c995635774356a3975da52fe08aba21d3c13a2f8e106c"
 metafile = true
@@ -1708,6 +1718,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "df2d7a1088e052e070a0b21b7d64e49ff3efcebf206b3a4fc95403ff8a0dba04"
 metafile = true
 
 [[files]]
