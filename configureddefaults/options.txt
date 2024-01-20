@@ -2,6 +2,7 @@ version:3465
 fastSeamless:true
 enableVsync:true
 entityShadows:false
+directionalAudio:true
 darkMojangStudiosBackground:true
 fovEffectScale:0.75
 darknessEffectScale:0.75
