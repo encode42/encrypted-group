@@ -717,6 +717,11 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/customplayerheads.pw.toml"
+hash = "67d151d34d449c978d12b99461e5dc4dad28b3d2f57824040c770be7406451e7"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -987,6 +992,11 @@ hash = "37d61e139caff12dc4d16b41e7162cd370c1017ffc60858189b9aeec75c0eff6"
 metafile = true
 
 [[files]]
+file = "mods/headed.pw.toml"
+hash = "84c10b52ef2f1609dd56934d4b0e7d0d4df315ea7a9495808dae11ac56211aeb"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
@@ -1187,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6b94e9c1f477fb448171478f1e9e94d03cc03b9fbaa204b567ab6260b1f421bf"
+hash = "973b4504511d552b2ca3ca9c87079614a0c9a97c098d90504e82d581d958e223"
 metafile = true
 
 [[files]]
@@ -1670,7 +1680,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6a0d4887617bd107ce954debb04452193d7ca75864c716b1648a8968e05265b2"
+hash = "38821c51e3e68ee5758519c8891e4364d62c6bfb5e3f13f69a3929ebfb3e2b33"
 metafile = true
 
 [[files]]
