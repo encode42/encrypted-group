@@ -61,6 +61,10 @@ file = "configureddefaults/config/bclib/server.json"
 hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
 
 [[files]]
+file = "configureddefaults/config/bedrockwaters.json"
+hash = "2c2d1735cf9fd97883435fe7fa467fc055dda078c9d578fe3141f6e1c3537495"
+
+[[files]]
 file = "configureddefaults/config/blocky-bubbles.json"
 hash = "85ab4a5a99dcbc8a18fac09daef7aaa45a4e5fc060d23cde5021a43e6d1dd5bd"
 
@@ -69,12 +73,16 @@ file = "configureddefaults/config/bluemap/core.conf"
 hash = "de3473ff10ada2fecec1a1687fb60c4f129ff333283182707f356cf8fed53927"
 
 [[files]]
+file = "configureddefaults/config/bluemap/maps/bumblezone.conf"
+hash = "821f6b18a54c69129bfc9313da0ff6928060bdc347fb725ba7bb0c9413a9d5c5"
+
+[[files]]
 file = "configureddefaults/config/bluemap/maps/end.conf"
 hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
 
 [[files]]
 file = "configureddefaults/config/bluemap/maps/nether.conf"
-hash = "8a4b0e4ce52aef139019ddb832db13062dec88e04a0074caae2f4b26fa001259"
+hash = "eb93d8ac9e73d03bfae6a253ed3f7ecca065b1fead0b1f3a8d6b243ecced0563"
 
 [[files]]
 file = "configureddefaults/config/bluemap/maps/overworld.conf"
@@ -103,6 +111,10 @@ hash = "56dacfdab4e4e9d4b8132497b9263b3a41edc9fb3a84c9b9ada0ef1271dd2a07"
 [[files]]
 file = "configureddefaults/config/capes.json5"
 hash = "e3ee145346bfe3feb8af830491531ea60de42a42b4825bc57fab6e33c95b1c7c"
+
+[[files]]
+file = "configureddefaults/config/chunky/config.json"
+hash = "bdd2d98f5e5a5e444d6b61f0e9193456bf7487bf96122f8f131383df51c6db11"
 
 [[files]]
 file = "configureddefaults/config/create-client.toml"
@@ -262,7 +274,7 @@ hash = "37fefa36455f6a1cc377d33361c16bd742202f5f3013b173def3f9526741d387"
 
 [[files]]
 file = "configureddefaults/config/sodium-extra-options.json"
-hash = "67ddcf42cbb6bc620bd57a6121a751b6d5b5fbe4efad9d11dd6d941a7cf70eec"
+hash = "eb5acf17899ae9e5bdcf8059f58aa314acf28da51a2b05f140f3a01fc28ac4b7"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
@@ -330,7 +342,43 @@ hash = "170b6b0039680ae29df26dd358d7c31fd5060df58a9f92754ad5204f4bc9d2c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "9748fd20b114b32db0d0473bbd8f015ef57bda9e35a72d72aa5fe6bc4cdd5721"
+hash = "1657f1dcdf5e6f6083aa31e6aa6a27ef63a80fb7ee8d8363c457a83971490230"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/amethyst.json"
+hash = "30beae6d6d2c63d64411df5c9b61752a97a56b523e0f922544cc9e6fa7eff012"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/clay.json"
+hash = "0016f5a31324337794f06e12402c587ee0f8c2a975f4b07dcb3415adc2c4c77b"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/diamond.json"
+hash = "4317755986d9d56d978580002738532bca016a0e54dded2fd383cb304eaca6bd"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/glowstone.json"
+hash = "90f417ed35b774002d2ca2b8cc65c95ead3fd523c7145e10d80fe428b04547ba"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/quartz.json"
+hash = "d4c951fbffe4c91142ce9a4b2cd1d3b040866c15d39d2c6d98946ccd57423645"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/recipes/crushing/salt.json"
+hash = "51f292686f939d4a11751da55ea0452158c9abc54d8835a46129735ea70b52cb"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/recipes/mixing/sky_steel.json"
+hash = "5e8e9245a9a3302a11c3a8edab9526805b638233fba4a17f881616859cbab48e"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/recipes/smelting/ash.json"
+hash = "2682f4b99ce8723e1d048e8686b2ef06b81e41c4bdb9e547cc228067ec5cd17b"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/pack.mcmeta"
+hash = "0841667fe0f2a03dcfa3a091f9d3af0459eff84d1f2a312a3eaf47a249832c65"
 
 [[files]]
 file = "configureddefaults/server.properties"
@@ -641,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "371eb3f11d3ffaaff2e4e08467df82a99452ac7aec72dd9324152be3a6c17763"
+hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
 
 [[files]]
@@ -790,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "be0eff6742bdbff32c9bb984e9c953dc8eb0312ef58eced0272689fda384250c"
+hash = "f61b94e25b00eb7c150f007e9966941bb825493c68ccc9a29939907d61c42c8c"
 metafile = true
 
 [[files]]
@@ -1038,6 +1086,11 @@ hash = "3710bb008020124805e899a6edb883208928d3e0d156769e541444d7b7388400"
 metafile = true
 
 [[files]]
+file = "mods/lights.pw.toml"
+hash = "16da05be0dbc665c36c43bd8b06bb4c0500221c0cfe62e4947857fa5b274e26b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -1045,6 +1098,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "3aea264b192b43936a734b27f3362baa9a4f6da26101d5366fdc5b7238d218bf"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
 metafile = true
 
 [[files]]
@@ -1129,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d4262ea81d416c9eea211bcfec4af1658df6fa430a99cc255978fc5911df04bd"
+hash = "6b94e9c1f477fb448171478f1e9e94d03cc03b9fbaa204b567ab6260b1f421bf"
 metafile = true
 
 [[files]]
@@ -1612,7 +1670,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b249dd3fc6125edabfc294601aa200b4f7d0b63cb9f8d59408ee8be7396d7af6"
+hash = "6a0d4887617bd107ce954debb04452193d7ca75864c716b1648a8968e05265b2"
 metafile = true
 
 [[files]]
@@ -1632,7 +1690,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "f030cdd3f2f19f3b03311cefe8d8adf694962953a102932ab00d884c5b1f558b"
+hash = "7154c219c5d58faf446ff71525a320112128b9a9359f6c44e145ba1a9978720a"
 metafile = true
 
 [[files]]
@@ -1729,39 +1787,3 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "87547554fb425248e31e61dc649123258d23f106deb9fe27ccfdaf8ef5ec7960"
 metafile = true
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/compression_overrides/amethyst.json"
-hash = "30beae6d6d2c63d64411df5c9b61752a97a56b523e0f922544cc9e6fa7eff012"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/compression_overrides/clay.json"
-hash = "0016f5a31324337794f06e12402c587ee0f8c2a975f4b07dcb3415adc2c4c77b"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/compression_overrides/diamond.json"
-hash = "4317755986d9d56d978580002738532bca016a0e54dded2fd383cb304eaca6bd"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/compression_overrides/glowstone.json"
-hash = "90f417ed35b774002d2ca2b8cc65c95ead3fd523c7145e10d80fe428b04547ba"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/compression_overrides/quartz.json"
-hash = "d4c951fbffe4c91142ce9a4b2cd1d3b040866c15d39d2c6d98946ccd57423645"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/recipes/crushing/salt.json"
-hash = "51f292686f939d4a11751da55ea0452158c9abc54d8835a46129735ea70b52cb"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/recipes/mixing/sky_steel.json"
-hash = "5e8e9245a9a3302a11c3a8edab9526805b638233fba4a17f881616859cbab48e"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/data/minecraft/recipes/smelting/ash.json"
-hash = "2682f4b99ce8723e1d048e8686b2ef06b81e41c4bdb9e547cc228067ec5cd17b"
-
-[[files]]
-file = "world/datapacks/encrypted_additions/pack.mcmeta"
-hash = "0841667fe0f2a03dcfa3a091f9d3af0459eff84d1f2a312a3eaf47a249832c65"
