@@ -11,7 +11,7 @@
   "particle_settings": {
     "particles": true,
     "rain_splash": false,
-    "block_break": true,
+    "block_break": false,
     "block_breaking": false,
     "other": {
       "farmersdelight:steam": false,
@@ -94,7 +94,7 @@
       "wilderwild:red_falling_mesoglea_drip": false,
       "wilderwild:red_hanging_mesoglea_drip": false,
       "wilderwild:red_landing_mesoglea_drip": false,
-      "wilderwild:termite": false,
+      "wilderwild:termite": true,
       "wilderwild:yellow_falling_mesoglea_drip": false,
       "wilderwild:yellow_hanging_mesoglea_drip": false,
       "wilderwild:yellow_landing_mesoglea_drip": false,
@@ -103,7 +103,19 @@
       "ae2:lightning_arc_fx": false,
       "ae2:lightning_fx": false,
       "ae2:matter_cannon_fx": false,
-      "ae2:vibrant_fx": false
+      "ae2:vibrant_fx": false,
+      "wilderwild:seed": false,
+      "supplementaries:dripping_liquid": false,
+      "supplementaries:falling_liquid": false,
+      "beautify:glowessence_particles": false,
+      "the_bumblezone:pollen_puff_particle": false,
+      "the_bumblezone:royal_jelly_particle": false,
+      "frozenlib:debug_pos": false,
+      "dummmmmmy:number": false,
+      "supplementaries:bottling_xp": false,
+      "supplementaries:feather": false,
+      "supplementaries:speaker_sound": false,
+      "supplementaries:splashing_liquid": false
     }
   },
   "detail_settings": {
@@ -121,7 +133,6 @@
     "dimensionFogDistance": {
       "minecraft:overworld": 0
     },
-    "use_linear_flat_color_blender": true,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
