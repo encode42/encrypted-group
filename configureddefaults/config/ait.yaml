@@ -1,0 +1,6 @@
+1server:
+	Ask Delay: "3.0" # How many seconds a client should be on delay for before asking for another TARDIS | Higher -> Better server performance | Lower -> Less client sync issues
+	Search Height: "64" # How many blocks up and down a TARDIS should ground search for before giving up
+	Force Sync Delay: "20.0" # How many seconds a client should be away from a tardis for before forcing a resync | Higher -> Better server performance | Lower -> Less client sync issues
+client:
+	Allow Custom Menu: "false" # Whether the custom title screen should show
