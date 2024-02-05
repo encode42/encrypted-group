@@ -1,13 +1,13 @@
 name = "Majrusz Library"
-filename = "majrusz-library-fabric-1.20.1-7.0.3.jar"
+filename = "majrusz-library-fabric-1.20.1-7.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PYQD8noM/versions/2zKpecUY/majrusz-library-fabric-1.20.1-7.0.3.jar"
+url = "https://cdn.modrinth.com/data/PYQD8noM/versions/qfBlR3Zg/majrusz-library-fabric-1.20.1-7.0.4.jar"
 hash-format = "sha1"
-hash = "5d229485603970fefc777e4d95abe3a5f013247c"
+hash = "35504049f95dcf70fcde29142ebe057c8de0786f"
 
 [update]
 [update.modrinth]
 mod-id = "PYQD8noM"
-version = "2zKpecUY"
+version = "qfBlR3Zg"
