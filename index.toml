@@ -9,10 +9,6 @@ file = "configureddefaults/ExotelcraftOptions.txt"
 hash = "cf2b09c0e169ee174ce2ed3372cead2aec8704f11abed284ea3b10e742222f33"
 
 [[files]]
-file = "configureddefaults/config/DistantHorizons.toml"
-hash = "576ab96111ff6d050bc7ad645d01d4c183f72e7b8e187fe6faf16ba71949f997"
-
-[[files]]
 file = "configureddefaults/config/LibertyVillagers.json"
 hash = "37899746ef05b6c8276d4182ff96b101dd6aaddce6a2df586f0eb059ba71e563"
 
@@ -251,14 +247,6 @@ hash = "2cc8c83cd8c81f1d91a65e8fbb98fdd743a662be3248a15f319a76be053a0760"
 [[files]]
 file = "configureddefaults/config/reinfcore.json"
 hash = "58c0694e7a264f9b1308c513031794d92b7acebf14a6053b2295498dac71363a"
-
-[[files]]
-file = "configureddefaults/config/respawningshulkers.json5"
-hash = "460a929e752e258d05d2d6d448e253ae0dc307973e762291e49db66c076d4f83"
-
-[[files]]
-file = "configureddefaults/config/rightclickharvest.json"
-hash = "2defd8d29b67acecfe04aee7b4a8be15811a124fd05eb3cc244a2f61ac7bc661"
 
 [[files]]
 file = "configureddefaults/config/servercore.toml"
@@ -662,11 +650,6 @@ hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
 metafile = true
 
 [[files]]
-file = "mods/chunky-extension.pw.toml"
-hash = "a217e41e6f44af521e40325b4e4fbedc918b97149ee65f81a0d4ec4c211a0432"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "57407fafb364c1ecfd7a31c79b39611db89736fc193ed95f902dcb2fe600e4b6"
 metafile = true
@@ -784,11 +767,6 @@ metafile = true
 [[files]]
 file = "mods/customplayerheads.pw.toml"
 hash = "67d151d34d449c978d12b99461e5dc4dad28b3d2f57824040c770be7406451e7"
-metafile = true
-
-[[files]]
-file = "mods/deathlog.pw.toml"
-hash = "1adb0595deb4844dd7a5075a836cddd314f041920e5353f9a59ac8197f967a3c"
 metafile = true
 
 [[files]]
@@ -982,11 +960,6 @@ hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
 metafile = true
@@ -1047,11 +1020,6 @@ hash = "b4a95599abc255637ea36d3c7e98bf3edcd4461a0f19eae4520b9b611939006f"
 metafile = true
 
 [[files]]
-file = "mods/gazebos.pw.toml"
-hash = "ce79370dc41e2ad09847c823bdc0f12aba55d12d621a33c8eb408ceb8420daa4"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
 metafile = true
@@ -1069,11 +1037,6 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "37d61e139caff12dc4d16b41e7162cd370c1017ffc60858189b9aeec75c0eff6"
-metafile = true
-
-[[files]]
-file = "mods/headed.pw.toml"
-hash = "84c10b52ef2f1609dd56934d4b0e7d0d4df315ea7a9495808dae11ac56211aeb"
 metafile = true
 
 [[files]]
@@ -1426,11 +1389,6 @@ hash = "b9ab3ce49cffeb5087e06cd48056befdc17138f88e86493293dd827088ce6cd7"
 metafile = true
 
 [[files]]
-file = "mods/potato-golem.pw.toml"
-hash = "815cc870258592c514d69c6d3c8ed6d9cf52ea7da760538d4406d0c0592da96b"
-metafile = true
-
-[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
 metafile = true
@@ -1478,16 +1436,6 @@ metafile = true
 [[files]]
 file = "mods/purpurpacks-hoe-effective-froglights.pw.toml"
 hash = "3a84d7a70c9075c7ea6ab683ec319a2f9f0103ceab06243dca6535df238d065a"
-metafile = true
-
-[[files]]
-file = "mods/purpurpacks-iron-to-diamond-armor-upgrades.pw.toml"
-hash = "d48a0509666f4fb5e5f5ec2b973e76c35fa1c71159748d0741f740de2ee52e2f"
-metafile = true
-
-[[files]]
-file = "mods/purpurpacks-iron-to-diamond-tools-upgrades.pw.toml"
-hash = "7e20e70183e42e941ee6988764638e4b8d2e5898aaf1f51e73b987aeb1cba486"
 metafile = true
 
 [[files]]
@@ -1551,28 +1499,13 @@ hash = "9d057df4ea35d71bb7300084a04d2ace55d97579834f098aa416877f345f3538"
 metafile = true
 
 [[files]]
-file = "mods/purpurpacks-stone-to-iron-tools-upgrades.pw.toml"
-hash = "c28ed0777faadf1a399474a509aa5202b814e8c5767d90c15535b9fafd35a23f"
-metafile = true
-
-[[files]]
 file = "mods/purpurpacks-transparent-blocks-in-enchant-area.pw.toml"
 hash = "6a7d67bc0a12c81d16bbe9fc7b280755e6f8134d4d88e7fb385a010f303edd14"
 metafile = true
 
 [[files]]
-file = "mods/purpurpacks-wooden-to-stone-tools-upgrades.pw.toml"
-hash = "7d7b13acbc2a79260f57dee9eb125b531cc0ed5b90036b975eadde3013509c8d"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "aa8fddd03c7498d87646cec809d8882b57df91eca30f3c5d0a7ccf42ab4266d5"
-metafile = true
-
-[[files]]
-file = "mods/qraftys-end-villages.pw.toml"
-hash = "d3ead7d8e4e8eb381b41b13bfb06b93774d719bbb07c5553ef0234966d437b9d"
 metafile = true
 
 [[files]]
@@ -1625,18 +1558,8 @@ hash = "a1226a7f792f4b48a1f22ac75f41b5cf0ac23df37e0e272e102bc76d40fb1685"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
-metafile = true
-
-[[files]]
 file = "mods/runes.pw.toml"
 hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
-metafile = true
-
-[[files]]
-file = "mods/seamless.pw.toml"
-hash = "57b79e4536cf3d60e5b4cc43ac7603c3ccb2e8481a2dcba93d74378822409b0d"
 metafile = true
 
 [[files]]
@@ -1802,11 +1725,6 @@ metafile = true
 [[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
-metafile = true
-
-[[files]]
-file = "mods/title-fixer.pw.toml"
-hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true
 
 [[files]]

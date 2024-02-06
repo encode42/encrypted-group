@@ -6,4 +6,7 @@
 # Misc
 /.idea/
 /.vscode/
+
+# Packwiz files
 /build/
+/go.sum
