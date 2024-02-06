@@ -54,7 +54,7 @@ jobs:
 
     - name: Get commits since last tag
       id: commits
-      uses: simbo/changes-since-last-release-action@v1
+      uses: simbo/changes-between-tags-action@v1
       with:
         line-prefix: "- "
         include-hashes: false
@@ -76,6 +76,6 @@ jobs:
         game-versions: 1.20.1
 
         files: build/*.mrpack
-        changelog: ${{ steps.commits.outputs.log }}
+        changelog: ${{ steps.commits.outputs.changes }}
 
         fail-mode: warn
