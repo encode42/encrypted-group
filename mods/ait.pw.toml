@@ -1,13 +1,13 @@
 name = "Adventures In Time"
-filename = "ait-1.2.25-1.20.1-beta.jar"
+filename = "ait-1.2.31-1.20.1-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZMP9ZjB9/versions/1zZVJ0w5/ait-1.2.25-1.20.1-beta.jar"
+url = "https://cdn.modrinth.com/data/ZMP9ZjB9/versions/jzBC95Tn/ait-1.2.31-1.20.1-beta.jar"
 hash-format = "sha1"
-hash = "16bc013a797565c22dbbe7d2eaad9825243f228b"
+hash = "d6ac7db8cb0b3fa60fea2bdc509c1aeb1b0fe7d8"
 
 [update]
 [update.modrinth]
 mod-id = "ZMP9ZjB9"
-version = "1zZVJ0w5"
+version = "jzBC95Tn"

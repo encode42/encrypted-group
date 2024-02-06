@@ -411,6 +411,11 @@ hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "87669a6c67d091f069a0169bd39d07d3c19d7e41e1c6af95bea3b30cc6c57f8d"
+metafile = true
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
@@ -432,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/ait.pw.toml"
-hash = "b4b4d6259324ffde514cd83eb48692a88738cb398dcb1503de98c085440cd57e"
+hash = "e760dcafe3a705e146927687c5de68acf5ae07d71439117396f1f3ff4e187385"
 metafile = true
 
 [[files]]
@@ -602,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "6cbd06b8908171c1fb79396acfc7f91f8c605c8718205ea9c1fe454ae2716094"
+hash = "2f6093d5d0bca4253ca66a4f4909bac6fa36e2e6a9c0a54fb5c56d7707b6283f"
 metafile = true
 
 [[files]]
@@ -935,6 +940,11 @@ hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
 metafile = true
@@ -1036,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+hash = "2fd1322d07670c9847303256dabbc58585be4f83c5b13b4082c4768d440aceed"
 metafile = true
 
 [[files]]
@@ -1171,6 +1181,11 @@ metafile = true
 [[files]]
 file = "mods/mega.pw.toml"
 hash = "b4cc4fbc9031ebf22fef7cb0885b494933c7c93ea2647dab511c1673113dd8cc"
+metafile = true
+
+[[files]]
+file = "mods/melophile.pw.toml"
+hash = "80590ac45d93a10e0b147febf5bd41caa2ebe1a17992a927260dd7a27206630c"
 metafile = true
 
 [[files]]
@@ -1687,6 +1702,11 @@ hash = "ea9bec0e61015a153a13b2f9000651c01df3270328041d2dc3a99153b594d32b"
 metafile = true
 
 [[files]]
+file = "mods/star-wars-planets-ad-astra.pw.toml"
+hash = "f2335b2c438e17b6be9cf2e4f0c06e9f9bfcf90598f8f9c1422c8f48049beab4"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
@@ -1702,6 +1722,11 @@ hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "a47c8ea8a52782cc1b0b6d2f0dc14b363ae2da5c78d62153061476a5f1d2873c"
 metafile = true
@@ -1709,6 +1734,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7f0cf4525c2fde0638a1712276e22dc4580fd1eacc131ff4da6ca2adb6aa469f"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "4131fcf8db5227b85b4000bc3a4d019678e1c0174479d38b169a2b1503c8a9f4"
 metafile = true
 
 [[files]]
@@ -1724,6 +1754,11 @@ metafile = true
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "0a3a680ed7c131426ffe490a94bb7d35e456fd586c83a8fb321b0a77e1eb6eb2"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b7bbe5dfca543853644d58d3e1a3379a99410054fe1ead9875bdb7b194037011"
 metafile = true
 
 [[files]]
@@ -1809,6 +1844,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
+metafile = true
+
+[[files]]
+file = "mods/worldborderfix.pw.toml"
+hash = "0b24d3fbf38ac7340c0fc39e4f9e2331ae733c975050c195268b09042322c770"
 metafile = true
 
 [[files]]
