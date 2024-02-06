@@ -350,39 +350,51 @@ hash = "170b6b0039680ae29df26dd358d7c31fd5060df58a9f92754ad5204f4bc9d2c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1657f1dcdf5e6f6083aa31e6aa6a27ef63a80fb7ee8d8363c457a83971490230"
+hash = "3a2329300b8629f96f1ba14b656cab254c76eabe2f911da66fc6687d57eaa576"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/amethyst.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/extended_drawers/compression_overrides/amethyst.json"
 hash = "30beae6d6d2c63d64411df5c9b61752a97a56b523e0f922544cc9e6fa7eff012"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/clay.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/extended_drawers/compression_overrides/clay.json"
 hash = "0016f5a31324337794f06e12402c587ee0f8c2a975f4b07dcb3415adc2c4c77b"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/diamond.json"
-hash = "4317755986d9d56d978580002738532bca016a0e54dded2fd383cb304eaca6bd"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/extended_drawers/compression_overrides/diamond.json"
+hash = "7dab13fedb266960b62fe4132279e2564b3197f672d05815fff60b819530c21f"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/glowstone.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/extended_drawers/compression_overrides/glowstone.json"
 hash = "90f417ed35b774002d2ca2b8cc65c95ead3fd523c7145e10d80fe428b04547ba"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/compression_overrides/quartz.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/extended_drawers/compression_overrides/melon.json"
+hash = "3472a01de71e09985cfa4638aa4a1c1d14eee9a275eaf56e94e6e84700864bad"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/extended_drawers/compression_overrides/quartz.json"
 hash = "d4c951fbffe4c91142ce9a4b2cd1d3b040866c15d39d2c6d98946ccd57423645"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/recipes/crushing/salt.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/crushing/salt.json"
 hash = "51f292686f939d4a11751da55ea0452158c9abc54d8835a46129735ea70b52cb"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/recipes/mixing/sky_steel.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/haunting/netherrack.json"
+hash = "a18364c609e33b700ceef9fc6fd929940bfbc38e942c3df8b188bd117dce688b"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/mixing/sky_steel.json"
 hash = "5e8e9245a9a3302a11c3a8edab9526805b638233fba4a17f881616859cbab48e"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/minecraft/recipes/smelting/ash.json"
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/smelting/ash.json"
 hash = "2682f4b99ce8723e1d048e8686b2ef06b81e41c4bdb9e547cc228067ec5cd17b"
+
+[[files]]
+file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/splashing/end_stone.json"
+hash = "a8b34f68a323ef33ec1ba7a3d8c6747162f2279ddbafbeb6fa5abd117700d397"
 
 [[files]]
 file = "configureddefaults/paxi/datapacks/encrypted_additions/pack.mcmeta"
@@ -711,6 +723,11 @@ hash = "1af98a4c6921515ad51fd4ecb9a448c20e41cf26b2b9e02fd756894bf410fbad"
 metafile = true
 
 [[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "d153a860a2af0eb91ea151aab929554bdc4e8ef6972a6e30016996743827ff0b"
+metafile = true
+
+[[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
 hash = "74f3d7b3a1bce3f41c0349f345de055e397f9a6a1381b42a603b7075bec461ed"
 metafile = true
@@ -747,6 +764,11 @@ hash = "60365a74e4f3fa8313b5494a7bb581b34c98d9bc8b6f90b52678737de3e66bff"
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "76cdd4223c19819d5b2eceaa1866e10ce80dc0226e75ef31581f46859e2e5c06"
 metafile = true
 
 [[files]]
