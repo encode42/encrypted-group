@@ -681,6 +681,11 @@ hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
 metafile = true
 
 [[files]]
+file = "mods/command-macros.pw.toml"
+hash = "be57a455bb8c8f01f1e9b18a32ab3079de5d5f09cd934bf9365e68fad95bfc21"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "ea24874a0264bad6a5ccfd0abe2b7ddb34377e6958b51f7e12b016d712375811"
 metafile = true
