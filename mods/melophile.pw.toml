@@ -1,0 +1,13 @@
+name = "Melophile"
+filename = "melophile1-4-0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6sYbrZuA/versions/Dg7zceGH/melophile1-4-0.jar"
+hash-format = "sha1"
+hash = "5e5dd5d551a2b79184bba1a43dbfa79f8d29ed19"
+
+[update]
+[update.modrinth]
+mod-id = "6sYbrZuA"
+version = "Dg7zceGH"
