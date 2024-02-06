@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "9505b144aee910b5be6cde71e1dd06be47ed7a86025ca740c143a7c404cbab20"
+
+[[files]]
 file = "configureddefaults/ExotelcraftOptions.txt"
 hash = "cf2b09c0e169ee174ce2ed3372cead2aec8704f11abed284ea3b10e742222f33"
 
@@ -743,6 +747,16 @@ hash = "867a8ce1e5993887a1420761a63cd74ff6fca108695a3eb450346f819f080dd8"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-fixes.pw.toml"
+hash = "ee1edb0270653337b55cefd619d55458d6e1d4cb8fd182aa18db0e1cb3a33d1c"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "90685c9f0a7769aa42b99a9cd51359540e84e46e4ead70f0dce62e443c3cce8c"
 metafile = true
@@ -756,10 +770,6 @@ metafile = true
 file = "mods/create-sandpaper-overhaul.pw.toml"
 hash = "51e80e47509bba424734b1c5b0bdfaa32817984e4adc1f3af7b25a5113064419"
 metafile = true
-
-[[files]]
-file = "mods/create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar"
-hash = "60365a74e4f3fa8313b5494a7bb581b34c98d9bc8b6f90b52678737de3e66bff"
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
@@ -1414,10 +1424,6 @@ metafile = true
 file = "mods/portfolio.pw.toml"
 hash = "b9ab3ce49cffeb5087e06cd48056befdc17138f88e86493293dd827088ce6cd7"
 metafile = true
-
-[[files]]
-file = "mods/porting_lib_entity-2.1.99999+1.20.jar"
-hash = "13587cc896eb00bd4e4e74809553f87c5a4346eb90b8b75a2977ee86c0572ccc"
 
 [[files]]
 file = "mods/potato-golem.pw.toml"

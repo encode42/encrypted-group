@@ -15,10 +15,6 @@ I've developed other mod packs that are targeted towards general use, so anyone 
 You can still view a server using this pack [here](https://view.encrypted.group)!
 
 ### Credits
-- [Create Fabric Sodium Fix](https://modrinth.com/mod/create-fabric-sodium-fix)
-  * Altered the `version` field in `fabric.mod.json` to work with various Create addons.
 - [Iris Flywheel Compat](https://github.com/encode42/iris-flw-compat)
   * Compiled with merged pull requests for Iris 1.6.11 compatibility.
-- [Porting Lib](https://github.com/fabien-gigante/Porting-Lib)
-  * A fork to patch server crashes caused by deployers.
 - [Just Enough Painting Previews](https://www.curseforge.com/minecraft/mc-mods/jepp)

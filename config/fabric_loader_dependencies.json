@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "createfabricfixes": {
+      "-depends": {
+        "create": ""
+      }
+    },
+    "createairfabric": {
+      "-depends": {
+        "create": ""
+      }
+    },
+    "create_so": {
+      "-depends": {
+        "create": ""
+      }
+    }
+  }
+}
