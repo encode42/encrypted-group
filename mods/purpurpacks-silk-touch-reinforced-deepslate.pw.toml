@@ -1,6 +1,6 @@
 name = "Silk Touch Reinforced Deepslate [PurpurPack]"
 filename = "purpurpacks-silk-touch-reinforced-deepslate-1.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B92jc48r/versions/TeGODzF6/purpurpacks-silk-touch-reinforced-deepslate-1.3.jar"

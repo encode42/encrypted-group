@@ -1,0 +1,13 @@
+name = "Beans Backpacks"
+filename = "BeansBackpacks-forge-1.20.1-0.18-v2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYt0MSgT/versions/7VwKyiKj/BeansBackpacks-forge-1.20.1-0.18-v2.jar"
+hash-format = "sha1"
+hash = "830cd55b97601264579d9dda952a2622d6b3461f"
+
+[update]
+[update.modrinth]
+mod-id = "kYt0MSgT"
+version = "7VwKyiKj"

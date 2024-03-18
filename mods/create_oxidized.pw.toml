@@ -1,13 +1,13 @@
 name = "Create: Oxidized"
-filename = "create_oxidized-0.1.1+1.20.1.jar"
+filename = "create_oxidized-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/X9kjRZeX/versions/TtSEksvr/create_oxidized-0.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/X9kjRZeX/versions/S1fxKzJu/create_oxidized-0.1.1.jar"
 hash-format = "sha1"
-hash = "bff3a3941c6277fd8395971d4c389dcd71e4157f"
+hash = "d626144a6a9ca87971647995fe942e78bbcea188"
 
 [update]
 [update.modrinth]
 mod-id = "X9kjRZeX"
-version = "TtSEksvr"
+version = "S1fxKzJu"

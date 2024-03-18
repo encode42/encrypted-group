@@ -1,13 +1,13 @@
 name = "Model Gap Fix"
-filename = "modelfix-1.14-fabric.jar"
+filename = "modelfix-1.14.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QdG47OkI/versions/r6uVoUxU/modelfix-1.14-fabric.jar"
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/fbaUxdx3/modelfix-1.14.jar"
 hash-format = "sha1"
-hash = "7c6a38565820d9c1941eb9d1aadaae75cb11ed8b"
+hash = "f11c4d7010f9572bd2e2ed64c15e544816226e0b"
 
 [update]
 [update.modrinth]
 mod-id = "QdG47OkI"
-version = "r6uVoUxU"
+version = "fbaUxdx3"

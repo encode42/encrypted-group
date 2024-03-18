@@ -1,6 +1,6 @@
 name = "Axe Effective Skulls [PurpurPack]"
 filename = "purpurpacks-axe-effective-skulls-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/S7cHoMDR/versions/XMhEhgiU/purpurpacks-axe-effective-skulls-1.4.jar"

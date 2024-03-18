@@ -120,7 +120,7 @@
 	/**
 	 * Whether recipes should have a button to set as default.
 	 */
-	recipe-default-button: false;
+	recipe-default-button: true;
 
 	/**
 	 * Whether recipes should have a button to show the recipe tree.
@@ -315,7 +315,7 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.a";
+	favorite: "key.keyboard.f";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
@@ -446,6 +446,13 @@
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
 	show-recipe-ids: false;
+
+	/**
+	 * Whether to display additional widgets added to recipes from other mods.
+	 * These are typically developer facing and compatibility related, and not useful
+	 * for players.
+	 */
+	show-recipe-decorators: false;
 
 	/**
 	 * Whether stacks in the index should display a highlight if they have a recipe

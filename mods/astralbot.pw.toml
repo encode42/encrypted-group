@@ -1,0 +1,13 @@
+name = "AstralBot"
+filename = "astralbot-forge-1.20.1-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NE7Gptcf/versions/LqPAQd39/astralbot-forge-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "25ba0324b914e6a5883a0aeac0a0bdfa5015bd99"
+
+[update]
+[update.modrinth]
+mod-id = "NE7Gptcf"
+version = "LqPAQd39"

@@ -1,0 +1,13 @@
+name = "Radiant Gear"
+filename = "radiantgear-forge-2.1.4+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtT9wm5O/versions/Bwm2wz3A/radiantgear-forge-2.1.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "eacc7fc68e845d044df92792e29ed14a8f5c97de"
+
+[update]
+[update.modrinth]
+mod-id = "AtT9wm5O"
+version = "Bwm2wz3A"

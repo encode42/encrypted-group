@@ -1,0 +1,13 @@
+name = "Create: Tweaked Controllers"
+filename = "create_tweaked_controllers-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/ss0fJNyz/create_tweaked_controllers-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "238c6c93b80b5f34a2f77432c53126f042f95bee"
+
+[update]
+[update.modrinth]
+mod-id = "H6bJ8Ju4"
+version = "ss0fJNyz"
