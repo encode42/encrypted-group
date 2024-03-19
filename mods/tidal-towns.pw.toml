@@ -1,6 +1,6 @@
 name = "Tidal Towns"
 filename = "tidal-towns-1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/EEIwvQVo/versions/9rGNfR18/tidal-towns-1.2.jar"

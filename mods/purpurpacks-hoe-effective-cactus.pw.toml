@@ -1,6 +1,6 @@
 name = "Hoe Effective Cactus [PurpurPack]"
 filename = "purpurpacks-hoe-effective-cactus-1.3.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xqq7IBeE/versions/E7r75rN0/purpurpacks-hoe-effective-cactus-1.3.jar"

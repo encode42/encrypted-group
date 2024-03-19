@@ -31,13 +31,13 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.8
-renderDistance:5
+renderDistance:7
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
 maxFps:150
-graphicsMode:0
+graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
@@ -216,7 +216,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.estrogen.dash:key.keyboard.x
 soundCategory_master:0.5
-soundCategory_music:0.0
+soundCategory_music:0.25
 soundCategory_record:0.15
 soundCategory_weather:0.1
 soundCategory_block:1.0
