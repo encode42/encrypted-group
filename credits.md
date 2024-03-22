@@ -4,6 +4,8 @@
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
   * [ApoticAttributes](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+- [Noisium](https://github.com/Steveplays28/noisium)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
   * [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
   * [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)

@@ -313,7 +313,7 @@ hash = "4aac29218e34ffb3fd2f9436fa5608990721a878c1320906365ac75711d53d0a"
 
 [[files]]
 file = "credits.md"
-hash = "ae7f8a7b8eece33cda0bc9ae95655251fc2b325f87fb4d228bb9f995ace3ad59"
+hash = "bbe6b7a27be4b4bf5d11425425dfefc1366e64b10e7071ad00abcfae18acf3b5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -443,11 +443,6 @@ metafile = true
 [[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "c7a62b0695a4ec03004e90eb529509166f205c60d118e00bdc5ed9f597366e2f"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
 metafile = true
 
 [[files]]
@@ -593,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "46adefd7fdff6a79a57d79a47073d55a28961be55408cebe7dbe16b2cadb9111"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -1341,6 +1341,10 @@ hash = "c122ed4347bbb82b881ca977d697a46973068911f169346392716d7734c4ad0a"
 metafile = true
 
 [[files]]
+file = "mods/noisium-forge-2.0.0+mc1.20.x.jar"
+hash = "50aaf70ccc5ea088f5c97f4c9666e918bc6821c992bade7519f4aa410a869035"
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "24ff2fc07890c3fae3e080da2852b4120427393a237f810d58d5280247c40550"
 metafile = true
@@ -1743,6 +1747,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "54fde311583003790c01f03136f185d2d61fab6dff4ccb5ff19a0a23503fbf3b"
+metafile = true
+
+[[files]]
+file = "mods/worldborderfixer-unofficial.pw.toml"
+hash = "c13180ffca83dd33133a4606352bac989072ab990fd39ed0c159f973ee7016a5"
 metafile = true
 
 [[files]]
