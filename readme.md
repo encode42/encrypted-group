@@ -17,4 +17,4 @@ I've developed other mod packs that are targeted towards general use, so anyone 
 You can still view a server using this pack [here](https://view.encrypted.group)!
 
 ### Credits
-Some third-party mods, shader packs, and more are packaged within the mod pack file. The credits for these projects can be found [in the `credits.md` file](credits.md). This file is included in the pack's export
+Some third-party mods, shader packs, and more are packaged within the mod pack file. The credits for these projects can be found [in the `credits.md` file](credits.md). This file is included in the pack's export as well!
