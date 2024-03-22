@@ -308,6 +308,10 @@ hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
 metafile = true
 
 [[files]]
+file = "configureddefaults/servers.dat"
+hash = "b5cde47fc477d42189fed191bee816abc275baac1d2ef5e86ac7bd2f7886cd1c"
+
+[[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined.zip.txt"
 hash = "4aac29218e34ffb3fd2f9436fa5608990721a878c1320906365ac75711d53d0a"
 
