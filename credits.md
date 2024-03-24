@@ -17,6 +17,8 @@
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
 - [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast)
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Sophisticated Backpacks](sophisticated-backpacks)
+  * [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 
 # v1
 - [Iris Flywheel Compat](https://github.com/encode42/iris-flw-compat)
