@@ -1,13 +1,13 @@
 name = "Advancement Frames"
-filename = "advancementframes-1.20-2.2.3.jar"
+filename = "advancementframes-1.20-2.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/QUCMn7AI/advancementframes-1.20-2.2.3.jar"
+url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/6uadZAJR/advancementframes-1.20-2.2.6.jar"
 hash-format = "sha1"
-hash = "2320e83e0381ba5b694e714f4dd6ee6934367918"
+hash = "bb26c17347a8806b218a2f18f15857291bad4385"
 
 [update]
 [update.modrinth]
 mod-id = "zUBn5hHr"
-version = "QUCMn7AI"
+version = "6uadZAJR"

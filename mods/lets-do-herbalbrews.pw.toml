@@ -1,13 +1,13 @@
 name = "[Let's Do] HerbalBrews"
-filename = "letsdo-herbalbrews-forge-1.0.5.jar"
+filename = "letsdo-herbalbrews-forge-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/UhI11E3v/letsdo-herbalbrews-forge-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/VMbsClN2/letsdo-herbalbrews-forge-1.0.6.jar"
 hash-format = "sha1"
-hash = "d9ad7d25b549f6b64f841501ef6f5b30e09a5cc1"
+hash = "b60187a8d4d34f6d92b507599189363b5b0b274b"
 
 [update]
 [update.modrinth]
 mod-id = "Eh11TaTm"
-version = "UhI11E3v"
+version = "VMbsClN2"
