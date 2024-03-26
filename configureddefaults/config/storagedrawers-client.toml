@@ -7,11 +7,11 @@
 
 [Render]
 	#Distance in blocks before item labels stop rendering
-	labelRenderDistance = 4.0
+	labelRenderDistance = 10.0
 	#Distance in blocks before quantity numbers stop rendering
-	quantityRenderDistance = 4.0
+	quantityRenderDistance = 5.0
 	#Distance in blocks before quantity numbers begin to fade out
-	quantityFadeDistance = 4.0
+	quantityFadeDistance = 5.0
 
 [Integration]
 	#Enable extended data display in WAILA if present
