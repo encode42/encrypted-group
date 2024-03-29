@@ -233,6 +233,45 @@ file = "configureddefaults/config/oculus.properties"
 hash = "6cbd776885efe405879db286e473e7d71faf8bb4247b4aa0737d969b8370b335"
 
 [[files]]
+file = "configureddefaults/config/paxi/datapacks/ctov-villagers-plus-compat.pw.toml"
+hash = "235ce819c4ab3b560954751de984f13abf4b802a1dec62646badc366adb59ed6"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/encrypted_additions/data/encrypted/recipes/crushing/quartz.json"
+hash = "9bfe5321f33fa546431e49dbab7923cc387b817dacd78c3163b8cd1da3fb36d9"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/encrypted_additions/data/encrypted/recipes/crushing/salt.json"
+hash = "51f292686f939d4a11751da55ea0452158c9abc54d8835a46129735ea70b52cb"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/encrypted_additions/data/encrypted/recipes/haunting/netherrack.json"
+hash = "a18364c609e33b700ceef9fc6fd929940bfbc38e942c3df8b188bd117dce688b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/encrypted_additions/data/encrypted/recipes/smelting/ash.json"
+hash = "2682f4b99ce8723e1d048e8686b2ef06b81e41c4bdb9e547cc228067ec5cd17b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/encrypted_additions/data/encrypted/recipes/splashing/end_stone.json"
+hash = "a8b34f68a323ef33ec1ba7a3d8c6747162f2279ddbafbeb6fa5abd117700d397"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/encrypted_additions/pack.mcmeta"
+hash = "0841667fe0f2a03dcfa3a091f9d3af0459eff84d1f2a312a3eaf47a249832c65"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ibo.pw.toml"
+hash = "0ca201370feede2014cfcfd1073861bdf7efe26649e5c0ba4fc7bc84a3338bb2"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/sparkles.pw.toml"
+hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
+metafile = true
+
+[[files]]
 file = "configureddefaults/config/ping-wheel.json"
 hash = "b850c44c3c50f13550d6402ce7575d3124b120ff2173e56d6ed9ad21b55be410"
 
@@ -273,47 +312,20 @@ file = "configureddefaults/options.txt"
 hash = "7c5a37c55617cb0778c920973d2cfc5bb73e75a246d3be2675858a812e568b27"
 
 [[files]]
-file = "configureddefaults/paxi/datapacks/ctov-villagers-plus-compat.pw.toml"
-hash = "235ce819c4ab3b560954751de984f13abf4b802a1dec62646badc366adb59ed6"
-metafile = true
-
-[[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/crushing/salt.json"
-hash = "51f292686f939d4a11751da55ea0452158c9abc54d8835a46129735ea70b52cb"
-
-[[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/haunting/netherrack.json"
-hash = "a18364c609e33b700ceef9fc6fd929940bfbc38e942c3df8b188bd117dce688b"
-
-[[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/smelting/ash.json"
-hash = "2682f4b99ce8723e1d048e8686b2ef06b81e41c4bdb9e547cc228067ec5cd17b"
-
-[[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/data/encrypted/recipes/splashing/end_stone.json"
-hash = "a8b34f68a323ef33ec1ba7a3d8c6747162f2279ddbafbeb6fa5abd117700d397"
-
-[[files]]
-file = "configureddefaults/paxi/datapacks/encrypted_additions/pack.mcmeta"
-hash = "0841667fe0f2a03dcfa3a091f9d3af0459eff84d1f2a312a3eaf47a249832c65"
-
-[[files]]
-file = "configureddefaults/paxi/datapacks/ibo.pw.toml"
-hash = "0ca201370feede2014cfcfd1073861bdf7efe26649e5c0ba4fc7bc84a3338bb2"
-metafile = true
-
-[[files]]
-file = "configureddefaults/paxi/resourcepacks/sparkles.pw.toml"
-hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
-metafile = true
-
-[[files]]
 file = "configureddefaults/servers.dat"
 hash = "b5cde47fc477d42189fed191bee816abc275baac1d2ef5e86ac7bd2f7886cd1c"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined.zip.txt"
 hash = "4aac29218e34ffb3fd2f9436fa5608990721a878c1320906365ac75711d53d0a"
+
+[[files]]
+file = "configureddefaults/world/serverconfig/create-server.toml"
+hash = "01c23172b443583bfd56f63a32adf27631d07391b9f84448670bf5ce730b323d"
+
+[[files]]
+file = "configureddefaults/world/serverconfig/sophisticatedbackpacks-server.toml"
+hash = "418cef0f59ea4e9ac1735a04a924ea38f9522e9424859bfb47489743ade78a5b"
 
 [[files]]
 file = "credits.md"
