@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "46adefd7fdff6a79a57d79a47073d55a28961be55408cebe7dbe16b2cadb9111"
+hash = "ec14a6292c065d4656cd7062cb64475732b2d6618c0892aea1c8b844411e562a"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "e0015a058c703f8c670b5e557a3236e668fd2909fa13a4227519e7ce858e8186"
+hash = "b36aa3a2e060c57c754a65487c36ac5fdff6bab8b9b22091d2b754fc0c6683be"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "ade07fff998a724f12cae88499f9bf12008b401158a2ad5287819c733e4ff9e4"
+hash = "94186d7b8da8352416a87d4be3c04b69c5dd38d789aef57ce8e6e503ab5389a1"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-goggles.pw.toml"
-hash = "75eff6711ca05c11668b2f002b2ce8b88d6a3db9aeca6823485238876357c83a"
+hash = "a27da06b66efba38a7e44989ce1c9290482061fdd3cbf0855a0c82820c2b9440"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "b37a3699b9a3340b4ed9be7e59b1c1901a0255b4a4c20a2b06819197dee0ce95"
+hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
 metafile = true
 
 [[files]]
@@ -818,17 +818,17 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "4a50004956aa8805ab65f043a9fb0f707a5988191dddb6f65e7261fe17e11521"
+hash = "3f75df9bb94b819cca92f4318b80e0d50f46e1604d50488a59dc29864f89dbea"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-walls.pw.toml"
-hash = "c50728130339ba1c3bae1216a2c042929c7894dc55f42e0a7399929b90715514"
+hash = "2a639307663c03f2795081e91f8ba8935e07989def80a1ae8f70dd11c86f49f4"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
-hash = "0d10c54157aa6d5bb1c515876ef42ed6f0211fa42430efcc832109d61003c422"
+hash = "a96c6f3372e8a6b8681ab1e61ab9948a6ca77cedb9a0e9c0c0760c81cb1a1d79"
 metafile = true
 
 [[files]]
@@ -948,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a78bd15bc27489388439c5e0c783443ac5501cc67191aca07c025d1faf8ae226"
+hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
 metafile = true
 
 [[files]]
@@ -1173,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "cb5aa9a5f7c0155dc64cad4844eeef691c6e9b57147362b03ecb992e9ac06b51"
+hash = "a81b36bb85a1f5ae322c7d43d0d8bf61d30055e08bf90f7f051fdb2590177652"
 metafile = true
 
 [[files]]
@@ -1737,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
-hash = "b3eb8585f905ec410eac3ffd30edd1a5e5c824288ff600ec5535bd805220025b"
+hash = "910e749d4c9745e68a009eccd033496c27455c7f58b5421b377508ee3da3c0e5"
 metafile = true
 
 [[files]]
