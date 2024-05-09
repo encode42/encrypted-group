@@ -380,11 +380,6 @@ hash = "b9b72fe45cc56c13e96f43511ba185070994b904e83c9fc2c4aa6c8c2f670aba"
 metafile = true
 
 [[files]]
-file = "mods/ad_extendra.pw.toml"
-hash = "ceff7d4b976d81f006336a2bfbf19a6fd8f2cd226c88d6052f3abdbfd355279a"
-metafile = true
-
-[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "ceccf1ee8d617a20354fbdd01e8b1bc1e542612eb3736b935ac22ccde65dab9d"
 metafile = true
@@ -1346,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "22c0b466b4fe34a416a1941936e9e9a7d9f3167d63ae1998e8a2772bf08d9fe2"
+hash = "9f4167084782daa4ef47d2511b69a4993d73ef1ecc4877204c64809232ad1163"
 metafile = true
 
 [[files]]
@@ -1735,11 +1730,6 @@ hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
 metafile = true
 
 [[files]]
-file = "mods/respawning-animals.pw.toml"
-hash = "334da4e36fd4d253d2bf9d6fd812464078fad34af8cacbae654737c0f27e436c"
-metafile = true
-
-[[files]]
 file = "mods/responsiveshields.pw.toml"
 hash = "5e2560813db484f28e643ecab4db6fa0ef4f67801c60dd97a0b64e8763c62385"
 metafile = true
@@ -1992,11 +1982,6 @@ metafile = true
 [[files]]
 file = "mods/wallpapers.pw.toml"
 hash = "df8e9e13df5eae083d8bed850a45ccecf631e4050720831392ef8f49c805e305"
-metafile = true
-
-[[files]]
-file = "mods/waxed.pw.toml"
-hash = "3392336c6cc2ef950d8f1918fb4e544a332d908a50841221260631a23cb1ce48"
 metafile = true
 
 [[files]]
