@@ -1,13 +1,13 @@
 name = "The Aether: Redux"
-filename = "aether-redux-2.0.7d-1.20.1-neoforge.jar"
+filename = "aether-redux-2.0.12b-1.20.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/khv3WzAS/versions/lqdDHTks/aether-redux-2.0.7d-1.20.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/khv3WzAS/versions/qEvcVyq4/aether-redux-2.0.12b-1.20.1-neoforge.jar"
 hash-format = "sha1"
-hash = "6da203e5b01ee8cc9c11f64cd19703ad92a06d8f"
+hash = "e4b337b31128791e6b413e9a19cba1cb5d1367a3"
 
 [update]
 [update.modrinth]
 mod-id = "khv3WzAS"
-version = "lqdDHTks"
+version = "qEvcVyq4"

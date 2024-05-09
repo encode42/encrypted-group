@@ -1,0 +1,13 @@
+name = "Waxed"
+filename = "waxed-0.1b-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZMc9viQ/versions/30VqWqtr/waxed-0.1b-Forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "1fb68fa81f89dce564edd5389b3796743ee623af"
+
+[update]
+[update.modrinth]
+mod-id = "pZMc9viQ"
+version = "30VqWqtr"

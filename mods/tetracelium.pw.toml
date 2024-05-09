@@ -1,13 +1,13 @@
 name = "tetracelium"
-filename = "tetracelium-1.20.1-1.1.1.jar"
+filename = "tetracelium-1.20.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rTvWs5Jz/versions/PI7BAghI/tetracelium-1.20.1-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/rTvWs5Jz/versions/jFtEdFmI/tetracelium-1.20.1-1.2.0.jar"
 hash-format = "sha1"
-hash = "3f6512756e3a0dd6b3a16cf05c519236b40c672f"
+hash = "1959ce558ae1d22e90185a85352730b8acf2a137"
 
 [update]
 [update.modrinth]
 mod-id = "rTvWs5Jz"
-version = "PI7BAghI"
+version = "jFtEdFmI"

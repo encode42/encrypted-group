@@ -1,13 +1,13 @@
 name = "[Let's Do] Bakery"
-filename = "letsdo-bakery-forge-1.1.7.jar"
+filename = "letsdo-bakery-forge-1.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WFwYiVoG/versions/6PRlbq3l/letsdo-bakery-forge-1.1.7.jar"
+url = "https://cdn.modrinth.com/data/WFwYiVoG/versions/t295Ae9Z/letsdo-bakery-forge-1.1.9.jar"
 hash-format = "sha1"
-hash = "b267cae24731f5450a47b2b21bb0f819f6b3589a"
+hash = "699e1c36e05d27fbbf34fd9a6f6b22570eafae9c"
 
 [update]
 [update.modrinth]
 mod-id = "WFwYiVoG"
-version = "6PRlbq3l"
+version = "t295Ae9Z"

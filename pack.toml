@@ -1,16 +1,16 @@
 name = "encrypted group"
 author = "encode42"
-version = "2.2.1"
+version = "2.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b43cad393436b7bf06c3b69e3de99812bf64ca4fff4138867917f0f2488051f"
+hash = "c5269c2249c8a738180f968ea3cbc5d24331bb494764996d17bde0314df650ef"
 
 [versions]
 minecraft = "1.20.1"
-neoforge = "47.1.101"
+neoforge = "47.1.105"
 
 [options]
 datapack-folder = "configureddefaults/paxi/datapacks"
