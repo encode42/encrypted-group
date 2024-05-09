@@ -1715,11 +1715,6 @@ hash = "416ed064c8533803905d539632c321749e6850453454200874e0b4487cd983aa"
 metafile = true
 
 [[files]]
-file = "mods/reskin.pw.toml"
-hash = "0be6cc4dce6bc2aa1488586694f288bd7c3768040bc50f4fb47aac32d20e64b8"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
