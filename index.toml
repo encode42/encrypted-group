@@ -780,11 +780,6 @@ hash = "8fe9cb403f0516794dc8ab9f81dd64dc0e83c831899f66e32543b6845cac2fde"
 metafile = true
 
 [[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "e110e7fd4e5ac505d57fff050c300021748788c96a6a4235b15965826798d490"
 metafile = true

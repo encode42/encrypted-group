@@ -1,12 +1,12 @@
 name = "encrypted group"
 author = "encode42"
-version = "2.3.3"
+version = "2.3.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "99f60d6bad044216dbf260b181594caca5707d91d23a56661da8a3e283ea812a"
+hash = "4c715cdd166670aa1ab77544f5771ef4593db6d753a1be5f880b65653b3a433a"
 
 [versions]
 minecraft = "1.20.1"
